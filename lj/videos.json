@@ -33,7 +33,7 @@
     "published": "2026-04-28",
     "url": "https://www.youtube.com/watch?v=RNba9VkZUNU",
     "brand": "Canon",
-    "model": "Colorado, Fabric",
+    "model": "Colorado",
     "technology": "UVgel",
     "format": "landscape",
     "duration": "4:25"
@@ -258,5 +258,57 @@
     "technology": "UV",
     "format": "landscape",
     "duration": "2:09"
+  },
+  {
+    "id": "j1cFM2cDyls",
+    "title": "CANON GP-4600S Printer | Smarter Signage Workflows",
+    "description": "Not all signage is created equal—and knowing what to print, how to print it, and which workflows actually make money can be the difference between busy work and profitable production. In this webinar, we bring together a graphic designer’s perspective and real-world production expertise to break down signage workflows using the Canon GP-4600S. From posters and banners to removable graphics, decals, and backlit applications, this discussion covers how print shops can streamline production, reduce finishing time, and expand into new revenue opportunities with confidence. You’ll learn how Canon’s expanded color gamut supports brand-critical work, how media choice impacts appearance and durability, and how smart workflow features—like dual-roll printing, inline cutting, and job storage—help shops save time and labor. Whether you’re refining your current process or evaluating new signage applications, this session delivers practical insight you can apply immediately. WHAT’S COVERED: Canon GP-4600S overview and key workflow advantages Choosing the right media for posters, banners, and signage Matte vs satin vs gloss finishes and real-world design considerations Borderless printing, trimming, and post-production time savings Removable graphics, decals, window films, and temporary signage Indoor vs outdoor durability and media selection Cost tracking, job accounting, and profitability insights",
+    "thumbnail": "https://img.youtube.com/vi/j1cFM2cDyls/mqdefault.jpg",
+    "published": "2026-02-04",
+    "url": "https://www.youtube.com/watch?v=j1cFM2cDyls",
+    "brand": "Canon",
+    "model": "imagePROGRAF",
+    "technology": "InkJet",
+    "format": "landscape",
+    "duration": "26:45"
+  },
+  {
+    "id": "A6dcAcDi4yY",
+    "title": "EPSON Surelab Minilab Printer Series | Deliver Photos FAST",
+    "description": "When speed matters, photo delivery can’t wait until after the event. In this webinar, we explore how photographers and print providers are using the EPSON Surelab Minilab Printer Series to deliver finished photo prints during live events—while guests are still present and engaged. You’ll see how on-site photo printing fits into real event workflows, including: Fast, automated photo output with minimal manual steps Printing directly from phones and cameras for live environments Producing borderless photos, greeting cards, and double-sided prints Reducing post-event work by delivering photos in the moment Creating a better client experience with physical photos on demand Whether you’re photographing weddings, sports tournaments, corporate events, or pop-up activations, this session walks through a practical, accessible approach to delivering photos faster—without adding complexity to your workflow. If you’d like to learn more about Epson Surelab printers, media options, or live-event photo workflows, the LexJet team is here to help.",
+    "thumbnail": "https://img.youtube.com/vi/A6dcAcDi4yY/mqdefault.jpg",
+    "published": "2026-01-28",
+    "url": "https://www.youtube.com/watch?v=A6dcAcDi4yY",
+    "brand": "Epson",
+    "model": "SureLab",
+    "technology": "InkJet",
+    "format": "landscape",
+    "duration": "25:28"
+  },
+  {
+    "id": "G3iFRufRZAM",
+    "title": "How to Get Started with HP Latex Printers for Wallcoverings (Featuring Dreamscape Wall Materials)",
+    "description": "",
+    "thumbnail": "https://img.youtube.com/vi/G3iFRufRZAM/mqdefault.jpg",
+    "published": "2026-01-27",
+    "url": "https://www.youtube.com/watch?v=G3iFRufRZAM",
+    "brand": "HP, DreamScape",
+    "model": "HP Latex 830W, Media",
+    "technology": "HP Latex, Wallcoverings",
+    "format": "landscape",
+    "duration": "32:30"
+  },
+  {
+    "id": "KUkWOmZP8jc",
+    "title": "No-Sew Fabric Applications Print Shops Can Produce In-House",
+    "description": "Fabric printing doesn’t have to mean sewing machines, outside vendors, or added complexity. In this video, we highlight no-sew fabric applications available through LexJet that allow print shops to expand into fabric graphics using simple, in-house workflows. These solutions make it easier to offer premium fabric products without hiring specialized labor or outsourcing production.",
+    "thumbnail": "https://img.youtube.com/vi/KUkWOmZP8jc/mqdefault.jpg",
+    "published": "2026-01-26",
+    "url": "https://www.youtube.com/watch?v=KUkWOmZP8jc",
+    "brand": "SignComp",
+    "model": "Finishing",
+    "technology": "Frames, Signage",
+    "format": "landscape",
+    "duration": "8:34"
   }
 ]
