@@ -431,11 +431,17 @@
       });
   }
 
+  // ── Split comma-separated field into trimmed array ──────────
+  function splitField(val) {
+    if (!val) return [];
+    return val.split(',').map(s => s.trim()).filter(Boolean);
+  }
+
   // ── Populate filter dropdowns ───────────────────────────────
   function populateFilters(videos) {
-    const brands = [...new Set(videos.map(v => v.brand).filter(Boolean))].sort();
-    const models = [...new Set(videos.map(v => v.model).filter(Boolean))].sort();
-    const techs  = [...new Set(videos.map(v => v.technology).filter(Boolean))].sort();
+    const brands = [...new Set(videos.flatMap(v => splitField(v.brand)))].sort();
+    const models = [...new Set(videos.flatMap(v => splitField(v.model)))].sort();
+    const techs  = [...new Set(videos.flatMap(v => splitField(v.technology)))].sort();
 
     brands.forEach(b => brandEl.insertAdjacentHTML('beforeend', `<option value="${esc(b)}">${esc(b)}</option>`));
     models.forEach(m => modelEl.insertAdjacentHTML('beforeend', `<option value="${esc(m)}">${esc(m)}</option>`));
@@ -466,9 +472,9 @@
     const sort  = sortEl.value;
 
     filtered = allVideos.filter(v => {
-      if (brand && v.brand     !== brand) return false;
-      if (model && v.model     !== model) return false;
-      if (tech  && v.technology !== tech) return false;
+      if (brand && !splitField(v.brand).includes(brand))      return false;
+      if (model && !splitField(v.model).includes(model))      return false;
+      if (tech  && !splitField(v.technology).includes(tech))  return false;
       if (q) {
         const haystack = `${v.title} ${v.description}`.toLowerCase();
         if (!haystack.includes(q)) return false;
@@ -512,9 +518,9 @@
       : `https://img.youtube.com/vi/${esc(v.id)}/mqdefault.jpg`;
 
     const tags = [
-      v.brand      ? `<span class="vl-tag brand">${esc(v.brand)}</span>`      : '',
-      v.model      ? `<span class="vl-tag model">${esc(v.model)}</span>`      : '',
-      v.technology ? `<span class="vl-tag technology">${esc(v.technology)}</span>` : '',
+      ...splitField(v.brand).map(b      => `<span class="vl-tag brand">${esc(b)}</span>`),
+      ...splitField(v.model).map(m      => `<span class="vl-tag model">${esc(m)}</span>`),
+      ...splitField(v.technology).map(t => `<span class="vl-tag technology">${esc(t)}</span>`),
     ].join('');
 
     const dateStr = v.published
