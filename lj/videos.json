@@ -1,5 +1,18 @@
 [
   {
+    "id": "IjAt74fdjWs",
+    "title": "How Canon imagePROGRAF Printers Power Professional Print Workflows",
+    "description": "Canon imagePROGRAF printers are built for professionals who demand precision and consistency. Designed to deliver the highest-quality professional prints for photography, fine art, technical documents, graphics, and textile applications, learn how these printers integrate into real-world production workflows, help shops improve efficiency, reduce errors, and deliver dependable results day after day! With Canon imagePROGRAF printers, you can achieve flawless photographic and fine art printing every time. The intelligent configuration of Canon’s innovative pigment ink technology and automatic media handling enables fast production with vivid color expression. As a worldwide innovation leader for over 80 years, Canon drives an ever-expanding range of large-format printing solutions, each one carefully crafted to address specific customer needs in each market segment served. Specialized customer solutions and applications range from fine art and photography, textiles, and dye-sublimation, to production printing, technical documents, and general-purpose poster-making.",
+    "thumbnail": "https://img.youtube.com/vi/IjAt74fdjWs/mqdefault.jpg",
+    "published": "2026-12-18",
+    "url": "https://www.youtube.com/watch?v=IjAt74fdjWs",
+    "brand": "Canon",
+    "model": "imagePROGRAF",
+    "technology": "InkJet",
+    "format": "landscape",
+    "duration": "26:30"
+  },
+  {
     "id": "IFefEX9GPDA",
     "title": "Duraluxe Metal Panels | Changes to Metal Sublimation",
     "description": "If your metal sublimation panels are chipping at the edges, cracking under flex, or falling apart after cutting, you're using the wrong panels. Duraluxe uses a powder-coated surface that stays intact through cutting, flexing, and outdoor exposure, backed by a five-year UV color fading warranty for exterior applications. No VOCs, Italian manufacturing, and US production coming in 2027.\n\nBeyond durability, Duraluxe offers nine distinct finishes including gloss, matte, satin, textured, Ice Touch, Wall Sky, Salt Lake, glow in the dark, and brush matte. These finishes open up applications like retail displays, interior decor, hospitality projects, and architectural signage that standard metal prints simply can't touch.\n\nIn this video we cover everything you need to get the best results. Heat press calibration, why Nomex outperforms parchment paper, why 70 to 80 GSM transfer paper beats heavier multi-use papers, and why pressing face down is one of the most important changes you can make for consistent output.",
@@ -33,8 +46,8 @@
     "published": "2026-04-28",
     "url": "https://www.youtube.com/watch?v=RNba9VkZUNU",
     "brand": "Canon",
-    "model": "Colorado",
-    "technology": "UVgel",
+    "model": "Canon Colorado",
+    "technology": "UVgel, Textiles",
     "format": "landscape",
     "duration": "4:25"
   },
@@ -72,7 +85,7 @@
     "published": "2026-04-13",
     "url": "https://www.youtube.com/watch?v=FCKtKlOa1kU",
     "brand": "Canon",
-    "model": "Colorado",
+    "model": "Canon Colorado",
     "technology": "UVgel",
     "format": "landscape",
     "duration": "5:08"
@@ -112,7 +125,7 @@
     "url": "https://www.youtube.com/watch?v=VRejlxVuZEA",
     "brand": "SignComp",
     "model": "Finishing",
-    "technology": "Frames",
+    "technology": "Frames, Textiles",
     "format": "landscape",
     "duration": "6:22"
   },
@@ -176,7 +189,7 @@
     "published": "2026-04-13",
     "url": "https://www.youtube.com/watch?v=yZkqRhUeZV4",
     "brand": "Epson",
-    "model": "V4000",
+    "model": "Epson V4000",
     "technology": "UV",
     "format": "landscape",
     "duration": "4:49"
@@ -254,7 +267,7 @@
     "published": "2026-02-05",
     "url": "https://www.youtube.com/watch?v=w1ZZiVJ5WUI",
     "brand": "Epson",
-    "model": "V1070",
+    "model": "Epson V1070",
     "technology": "UV",
     "format": "landscape",
     "duration": "2:09"
@@ -280,7 +293,7 @@
     "published": "2026-01-28",
     "url": "https://www.youtube.com/watch?v=A6dcAcDi4yY",
     "brand": "Epson",
-    "model": "SureLab",
+    "model": "Epson SureLab",
     "technology": "InkJet",
     "format": "landscape",
     "duration": "25:28"
@@ -307,8 +320,73 @@
     "url": "https://www.youtube.com/watch?v=KUkWOmZP8jc",
     "brand": "SignComp",
     "model": "Finishing",
-    "technology": "Frames, Signage",
+    "technology": "Frames, Signage, Textiles",
     "format": "landscape",
     "duration": "8:34"
+  },
+  {
+    "id": "UfFIqO5bSeM",
+    "title": "Tour the LexJet Experience Center",
+    "description": "Take a quick tour of the LexJet Experience Center, where customers can test equipment, explore media, and see real-world print applications in action. From flatbeds and roll-to-roll printers to finishing and hybrid solutions, this space is designed for hands-on learning and live demos.",
+    "thumbnail": "https://img.youtube.com/vi/UfFIqO5bSeM/mqdefault.jpg",
+    "published": "2026-01-14",
+    "url": "https://www.youtube.com/watch?v=UfFIqO5bSeM",
+    "brand": "LexJet",
+    "model": "Misc",
+    "technology": "Misc",
+    "format": "landscape",
+    "duration": "1:46"
+  },
+  {
+    "id": "s1HXCHa3LtQ",
+    "title": "EFI Pro 33r LED Printer - When Speed, Quality, and Profit Matter",
+    "description": "Built to handle demanding production environments, the EFI Pro 33r delivers faster print speeds, consistent output, and efficient LED curing that helps reduce energy usage and overall cost to manufacture. The result: more jobs completed per shift, less downtime, and stronger margins on every print. EFI Pro 33r goes beyond standard roll-to-roll printing, adding value-added capabilities that help expand applications, streamline workflows, and unlock new revenue opportunities. If your goal is to maximize performance, increase print quality, lower operational costs, and grow profitably, the EFI Pro 33r is built to help you compete, and win, in today’s production-level wide-format market. Maximize performance. Increase print quality. Lower operational costs. And expand your capabilities. That’s how you play to win.",
+    "thumbnail": "https://img.youtube.com/vi/s1HXCHa3LtQ/mqdefault.jpg",
+    "published": "2026-01-08",
+    "url": "https://www.youtube.com/watch?v=s1HXCHa3LtQ",
+    "brand": "EFI",
+    "model": "EFI Pro 33r",
+    "technology": "UV",
+    "format": "landscape",
+    "duration": "1:19"
+  },
+  {
+    "id": "zc9r5UBMFGU",
+    "title": "Smooth, Suede, Linen (And More!) Wallcoverings | Redefine Interiors With Elements Wallcoverings",
+    "description": "Introducing the Elements wall decor portfolio: a collection of wall coverings designed to combine timeless elegance with commercial-grade durability. Suitable for a variety of printing environments and installation methods, Elements wall coverings meet stringent environmental standards while delivering long-lasting performance. This video highlights the unique finishes and applications across the collection, including smooth, suede, linen-like, and sand-textured surfaces ideal for environments such as offices, retail spaces, healthcare facilities, galleries, and educational settings. All Elements wall coverings are compatible with latex, eco-solvent, solvent, and UV inks and feature a phthalate-free PVC substrate for easy installation using traditional adhesives and techniques.",
+    "thumbnail": "https://img.youtube.com/vi/zc9r5UBMFGU/mqdefault.jpg",
+    "published": "2026-01-07",
+    "url": "https://www.youtube.com/watch?v=zc9r5UBMFGU",
+    "brand": "Elements",
+    "model": "Media",
+    "technology": "Wallcoverings",
+    "format": "landscape",
+    "duration": "1:35"
+  },
+  {
+    "id": "xb6643ADgUI",
+    "title": "New to Dye Sublimation? Avoid These Costly Beginner Mistakes",
+    "description": "Dye sublimation is exciting, but getting started without the right knowledge can lead to costly mistakes. In this episode, Carly Jones from LexJet is joined by sublimation expert Liliana Wright to break down the most common dye sublimation mistakes beginners make and how to avoid them. Whether you’re just starting out or you’ve already completed a few projects, this video will help you save time, materials, and money while improving your results. You’ll learn: •What materials actually work for dye sublimation •Common heat press mistakes with temperature, pressure, and timing •Why poor tape, uneven heat, and low-quality graphics ruin prints •How to avoid tumbler seams, edge fading, and burned substrates •Budget-friendly blanks that sublimate surprisingly well •Why documenting your settings saves headaches long-term Dye sublimation can be incredibly rewarding once you understand the process, and a few smart adjustments can make all the difference.",
+    "thumbnail": "https://img.youtube.com/vi/xb6643ADgUI/mqdefault.jpg",
+    "published": "2026-01-06",
+    "url": "https://www.youtube.com/watch?v=xb6643ADgUI",
+    "brand": "DTFuzion",
+    "model": "Media",
+    "technology": "DTF, Textiles",
+    "format": "landscape",
+    "duration": "8:58"
+  },
+  {
+    "id": "8FRkOQYXFiA",
+    "title": "DTFuzion Powder Shaker | Leveling, Loading, First Run",
+    "description": "Before your first DTF print, make sure your powder shaker is set up correctly. This step-by-step guide shows how to properly install and prepare the DTFuzion Powder Shaker, including positioning the unit, verifying heating and airflow systems, loading powder and film, and confirming smooth conveyor operation.",
+    "thumbnail": "https://img.youtube.com/vi/8FRkOQYXFiA/mqdefault.jpg",
+    "published": "2025-12-23",
+    "url": "https://www.youtube.com/watch?v=8FRkOQYXFiA",
+    "brand": "DTFuzion, Epson, Practix",
+    "model": "Media, Epson G6070, Practix Shaker",
+    "technology": "DTF, Textiles",
+    "format": "landscape",
+    "duration": "5:51"
   }
 ]
