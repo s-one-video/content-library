@@ -267,7 +267,7 @@
     "published": "2026-02-04",
     "url": "https://www.youtube.com/watch?v=j1cFM2cDyls",
     "brand": "Canon",
-    "model": "imagePROGRAF",
+    "model": "Canon imagePROGRAF",
     "technology": "InkJet",
     "format": "landscape",
     "duration": "26:45"
@@ -384,7 +384,7 @@
     "published": "2025-12-18",
     "url": "https://www.youtube.com/watch?v=IjAt74fdjWs",
     "brand": "Canon",
-    "model": "imagePROGRAF",
+    "model": "Canon imagePROGRAF",
     "technology": "InkJet",
     "format": "landscape",
     "duration": "26:30"
@@ -411,7 +411,7 @@
     "url": "https://www.youtube.com/watch?v=nn-A3QT2nBU",
     "brand": "HP, PrintFactory, Summa",
     "model": "Latex 830W",
-    "technology": "HP Latex",
+    "technology": "HP Latex, RIP, Software",
     "format": "landscape",
     "duration": "34:46"
   },
@@ -453,5 +453,70 @@
     "technology": "Cutters",
     "format": "landscape",
     "duration": "2:35"
+  },
+  {
+    "id": "z6-5lXkljiM",
+    "title": "Begin Your Dye-Sublimation Journey (Start Here!)",
+    "description": "Thinking about getting into dye sublimation? Whether you’re a hobbyist, side-hustler, or small business owner, this full walkthrough shows you exactly what you need to know. Discover everything that makes the Epson SureColor F170 and F570 the ideal starting point. From printing gifts, selling customized décor, creating keepsakes for life events, or launching a sublimation business, this video gives you the knowledge and confidence to get started fast, all with fewer headaches and better results!",
+    "thumbnail": "https://img.youtube.com/vi/z6-5lXkljiM/mqdefault.jpg",
+    "published": "2025-11-19",
+    "url": "https://www.youtube.com/watch?v=z6-5lXkljiM",
+    "brand": "DTFuzion",
+    "model": "Media",
+    "technology": "DTF, Dye-Sublimation",
+    "format": "landscape",
+    "duration": "27:24"
+  },
+  {
+    "id": "XySaBdK315E",
+    "title": "NEW High-Value Adhesive-Backed Projects | Grow Your Print Shop with HP Latex!",
+    "description": "Learn how to turn HP Latex printers, the right adhesive-backed media, and a smart RIP workflow into profitable, repeatable applications for your print shop. In this session, Michael Clementi and guests break down real-world application workflows. Whether you’re focused on vehicle wraps, custom window films, interior wall graphics, or short-run decals, this conversation shows you how to tighten up your workflow and expand into high-value, high-margin adhesive-backed work. You’ll learn: •Why HP Latex technology is such a strong fit for adhesive-back applications •How overcoat, fast curing, and stretchability impact projects •Which HP Latex models are right for you •Go-to media options for window films, wall graphics, floor graphics, and fleet wraps •Best practices for color consistency, profiling, and maintenance",
+    "thumbnail": "https://img.youtube.com/vi/XySaBdK315E/mqdefault.jpg",
+    "published": "2025-11-18",
+    "url": "https://www.youtube.com/watch?v=XySaBdK315E",
+    "brand": "HP",
+    "model": "Latex 830W",
+    "technology": "HP Latex",
+    "format": "landscape",
+    "duration": "29:57"
+  },
+  {
+    "id": "7Royoq5UePA",
+    "title": "Canon’s Holiday Print Workflow (Simplified)",
+    "description": "Bring your holiday print projects to life with Canon imagePROGRAF printers, ImagePrint R.E.D. from Colorbyte, and LexJet media. In this session, Michael Clementi from LexJet is joined by Canon expert Bob Maloney and Colorbyte’s John Pannozzo to show how you can turn your printer into a full holiday production system for gifts, décor, and profitable print jobs. You’ll see how Canon imagePROGRAF printers, paired with ImagePrint R.E.D., make it easy to create: •Canvas gallery wraps •Custom wrapping paper and labels •Photo gifts and metallic media •Holiday wall graphics, stickers, and packaging The team also walks through key workflow advantages: media presets and ICC profiles, automatic nesting to reduce waste, pattern repeats for wrapping paper, multi-panel wall coverings, and active cut workflows that simplify contour cutting, even for non-designers. Whether you’re a small studio, print shop, or in-house creative team, get the tools to scale holiday production and handle repeat orders quickly.",
+    "thumbnail": "https://img.youtube.com/vi/7Royoq5UePA/mqdefault.jpg",
+    "published": "2025-11-18",
+    "url": "https://www.youtube.com/watch?v=7Royoq5UePA",
+    "brand": "Canon",
+    "model": "Canon imagePROGRAF",
+    "technology": "InkJet",
+    "format": "landscape",
+    "duration": "24:25"
+  },
+  {
+    "id": "mnCruLxs5bM",
+    "title": "Fiery Digital Factory 11 (and the future!) – The RIP That Does Everything",
+    "description": "“Even low-res images get cleaned up with automatic resampling.” Digital Factory 11 is designed to simplify production for shops running multiple fabrics, shirt colors, or print technologies. With Q-based automation, built-in underbase generation, smart color knockout tools, and automatic resampling, it gives you a professional workflow out of the box. If you want a RIP that’s powerful, automated, and easy to learn, Fiery Digital Factory 11 delivers everything in one package. With Version 12 right around the corner, there's even more to get excited about!",
+    "thumbnail": "https://img.youtube.com/vi/mnCruLxs5bM/mqdefault.jpg",
+    "published": "2025-11-17",
+    "url": "https://www.youtube.com/watch?v=mnCruLxs5bM",
+    "brand": "Fiery",
+    "model": "Digital Factory 11",
+    "technology": "RIP, Software",
+    "format": "landscape",
+    "duration": "3:50"
+  },
+  {
+    "id": "yy1F5vodwJ4",
+    "title": "Photo Tex: The Removable Fabric That Never Damages Walls",
+    "description": "“Leave it up for a day or a decade. It still removes clean.” Photo Tex is a reusable, removable, repositionable, self-adhesive polyester fabric featuring a proprietary, patented adhesive, an adhesive that never breaks down, gums up, or separates from the liner. That means no residue, no wall damage, and no headaches. See Photo Tex at LexJet: https://www.lexjet.com/en/photo-tex-2 From stadium graphics to museum walls to storefront windows, Photo Tex is one of the most versatile and reliable adhesive fabrics in the print world, and it proves why it’s been an industry staple for over 21 years.",
+    "thumbnail": "https://img.youtube.com/vi/yy1F5vodwJ4/mqdefault.jpg",
+    "published": "2025-11-17",
+    "url": "https://www.youtube.com/watch?v=yy1F5vodwJ4",
+    "brand": "Photo Tex",
+    "model": "Photo Tex",
+    "technology": "Self Adhesive, Wallcoverings, Fabric, Textiles",
+    "format": "landscape",
+    "duration": "4:02"
   }
 ]
