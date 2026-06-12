@@ -172,6 +172,7 @@
 <script>
   const CONFIG = {
     title:    "DIGIPRINT Content Library",
+    subtitle: "Browse the latest product videos, demos, and guides",
     jsonUrl:  "https://s-one-video.github.io/content-library/dgp/videos.json",
     accent:      "#4b6601",
     accentLight: "#8BBA09",
@@ -228,6 +229,11 @@
     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4 g-4" id="vl-grid">
       <div class="vl-state"><div class="icon">⏳</div><p>Loading videos…</p></div>
     </div>
+    <div id="vl-sentinel" style="display:none;justify-content:center;align-items:center;padding:24px;">
+      <div class="spinner-border spinner-border-sm text-secondary" role="status">
+        <span class="visually-hidden">Loading more videos…</span>
+      </div>
+    </div>
   </div>
 
 </div>
@@ -242,6 +248,9 @@
 
   let allVideos = [];
   let filtered  = [];
+  const PAGE_SIZE = 35;
+  let displayedCount = 0;
+  let scrollObserver = null;
 
   const grid     = document.getElementById('vl-grid');
   const searchEl = document.getElementById('vl-search');
@@ -330,7 +339,9 @@
 
   // ── Render ────────────────────────────────────────────────────
   function renderGrid(videos) {
-    countEl.textContent = `${videos.length} video${videos.length !== 1 ? 's' : ''}`;
+    if (scrollObserver) { scrollObserver.disconnect(); scrollObserver = null; }
+    displayedCount = 0;
+    grid.innerHTML = '';
 
     if (!videos.length) {
       grid.innerHTML = `
@@ -338,10 +349,48 @@
           <div class="icon">🔍</div>
           <p>No videos match your search or filters.</p>
         </div>`;
+      document.getElementById('vl-sentinel').style.display = 'none';
+      countEl.textContent = '';
       return;
     }
 
-    grid.innerHTML = videos.map(v => cardHTML(v)).join('');
+    const batch = videos.slice(0, PAGE_SIZE);
+    grid.innerHTML = batch.map(v => cardHTML(v)).join('');
+    displayedCount = batch.length;
+    updateCount();
+    setupScrollObserver(videos);
+  }
+
+  function updateCount() {
+    if (!filtered.length) { countEl.textContent = ''; return; }
+    if (displayedCount >= filtered.length) {
+      countEl.textContent = `${filtered.length} video${filtered.length !== 1 ? 's' : ''}`;
+    } else {
+      countEl.textContent = `Showing ${displayedCount} of ${filtered.length} videos`;
+    }
+  }
+
+  function setupScrollObserver(videos) {
+    const sentinel = document.getElementById('vl-sentinel');
+    if (displayedCount >= videos.length) {
+      sentinel.style.display = 'none';
+      return;
+    }
+    sentinel.style.display = 'flex';
+    scrollObserver = new IntersectionObserver((entries) => {
+      if (!entries[0].isIntersecting) return;
+      const start = displayedCount;
+      const end   = Math.min(displayedCount + PAGE_SIZE, videos.length);
+      grid.insertAdjacentHTML('beforeend', videos.slice(start, end).map(v => cardHTML(v)).join(''));
+      displayedCount = end;
+      updateCount();
+      if (displayedCount >= videos.length) {
+        scrollObserver.disconnect();
+        scrollObserver = null;
+        sentinel.style.display = 'none';
+      }
+    }, { rootMargin: '300px' });
+    scrollObserver.observe(sentinel);
   }
 
   function cardHTML(v) {
