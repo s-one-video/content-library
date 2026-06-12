@@ -1,18 +1,5 @@
 [
   {
-    "id": "IjAt74fdjWs",
-    "title": "How Canon imagePROGRAF Printers Power Professional Print Workflows",
-    "description": "Canon imagePROGRAF printers are built for professionals who demand precision and consistency. Designed to deliver the highest-quality professional prints for photography, fine art, technical documents, graphics, and textile applications, learn how these printers integrate into real-world production workflows, help shops improve efficiency, reduce errors, and deliver dependable results day after day! With Canon imagePROGRAF printers, you can achieve flawless photographic and fine art printing every time. The intelligent configuration of Canon’s innovative pigment ink technology and automatic media handling enables fast production with vivid color expression. As a worldwide innovation leader for over 80 years, Canon drives an ever-expanding range of large-format printing solutions, each one carefully crafted to address specific customer needs in each market segment served. Specialized customer solutions and applications range from fine art and photography, textiles, and dye-sublimation, to production printing, technical documents, and general-purpose poster-making.",
-    "thumbnail": "https://img.youtube.com/vi/IjAt74fdjWs/mqdefault.jpg",
-    "published": "2025-12-18",
-    "url": "https://www.youtube.com/watch?v=IjAt74fdjWs",
-    "brand": "Canon",
-    "model": "imagePROGRAF",
-    "technology": "InkJet",
-    "format": "landscape",
-    "duration": "26:30"
-  },
-  {
     "id": "IFefEX9GPDA",
     "title": "Duraluxe Metal Panels | Changes to Metal Sublimation",
     "description": "If your metal sublimation panels are chipping at the edges, cracking under flex, or falling apart after cutting, you're using the wrong panels. Duraluxe uses a powder-coated surface that stays intact through cutting, flexing, and outdoor exposure, backed by a five-year UV color fading warranty for exterior applications. No VOCs, Italian manufacturing, and US production coming in 2027.\n\nBeyond durability, Duraluxe offers nine distinct finishes including gloss, matte, satin, textured, Ice Touch, Wall Sky, Salt Lake, glow in the dark, and brush matte. These finishes open up applications like retail displays, interior decor, hospitality projects, and architectural signage that standard metal prints simply can't touch.\n\nIn this video we cover everything you need to get the best results. Heat press calibration, why Nomex outperforms parchment paper, why 70 to 80 GSM transfer paper beats heavier multi-use papers, and why pressing face down is one of the most important changes you can make for consistent output.",
@@ -388,5 +375,83 @@
     "technology": "DTF, Textiles",
     "format": "landscape",
     "duration": "5:51"
+  },
+  {
+    "id": "IjAt74fdjWs",
+    "title": "How Canon imagePROGRAF Printers Power Professional Print Workflows",
+    "description": "Canon imagePROGRAF printers are built for professionals who demand precision and consistency. Designed to deliver the highest-quality professional prints for photography, fine art, technical documents, graphics, and textile applications, learn how these printers integrate into real-world production workflows, help shops improve efficiency, reduce errors, and deliver dependable results day after day! With Canon imagePROGRAF printers, you can achieve flawless photographic and fine art printing every time. The intelligent configuration of Canon’s innovative pigment ink technology and automatic media handling enables fast production with vivid color expression. As a worldwide innovation leader for over 80 years, Canon drives an ever-expanding range of large-format printing solutions, each one carefully crafted to address specific customer needs in each market segment served. Specialized customer solutions and applications range from fine art and photography, textiles, and dye-sublimation, to production printing, technical documents, and general-purpose poster-making.",
+    "thumbnail": "https://img.youtube.com/vi/IjAt74fdjWs/mqdefault.jpg",
+    "published": "2025-12-18",
+    "url": "https://www.youtube.com/watch?v=IjAt74fdjWs",
+    "brand": "Canon",
+    "model": "imagePROGRAF",
+    "technology": "InkJet",
+    "format": "landscape",
+    "duration": "26:30"
+  },
+  {
+    "id": "_4dWCENDht0",
+    "title": "EPSON V-Series: The UV Flatbed Upgrade Print Shops Are Making",
+    "description": "Thinking about adding UV flatbed printing to your business or upgrading your current setup? In this deep dive, LexJet's Michael Clementi and his guests break down the EPSON V-Series UV flatbed printers and explain where each model fits, who they’re best for, and how UV technology can unlock new revenue opportunities. Whether you’re entering UV for the first time or scaling into high-volume rigid production, this conversation will help you understand which EPSON V-Series printer aligns with your business and where you want to go next. For questions about any of the solutions discussed, contact LexJet at *800-453-9538* or visit *LexJet.com* for all your printing supply needs.",
+    "thumbnail": "https://img.youtube.com/vi/_4dWCENDht0/mqdefault.jpg",
+    "published": "2025-12-17",
+    "url": "https://www.youtube.com/watch?v=_4dWCENDht0",
+    "brand": "Epson",
+    "model": "Epson V7000, Epson V1070",
+    "technology": "UV",
+    "format": "landscape",
+    "duration": "19:17"
+  },
+  {
+    "id": "nn-A3QT2nBU",
+    "title": "The Future of Digital Packaging | HP Latex Packaging Workflow",
+    "description": "Packaging demand is changing. Brands now need shorter runs, faster turnaround, and more personalization than ever before. In this webinar, we explore a complete digital packaging workflow using HP Latex printers, HP media, Summa cutting systems, and PrintFactory RIP software. See how print service providers can produce packaging prototypes, labels, sleeves, and short-run packaging faster with instant-dry Latex printing, automated RIP workflows, and precision finishing. HP Latex Gen 4 printers deliver vibrant color, flexible durability for folding and creasing, and thin ink layers that prevent cracking during finishing. Combined with HP media for dimensional stability, Summa cutters for contour cutting and creasing, and PrintFactory automation for color management and layout, this workflow enables efficient digital packaging production from design to finished product.",
+    "thumbnail": "https://img.youtube.com/vi/nn-A3QT2nBU/mqdefault.jpg",
+    "published": "2025-12-16",
+    "url": "https://www.youtube.com/watch?v=nn-A3QT2nBU",
+    "brand": "HP, PrintFactory, Summa",
+    "model": "Latex 830W",
+    "technology": "HP Latex",
+    "format": "landscape",
+    "duration": "34:46"
+  },
+  {
+    "id": "Zh2vCRVgX9o",
+    "title": "ChromaLuxe 4-Way French Cleat Installation | Prints Mounted Fast",
+    "description": "Mounting metal or acrylic panels doesn’t have to be complicated. In this video, we demonstrate how to install the ChromaLuxe 4-Way French Cleat Hanging System, a lightweight mounting solution designed for fast and clean installation of ChromaLuxe aluminum and acrylic panels. This patented system allows installers to quickly align and secure panels while maintaining a professional, gallery-quality finish. The 4-Way French Cleat (4WFC) system simplifies panel installation by allowing flexible orientation and secure wall mounting without complicated hardware. Its lightweight design makes it ideal for both production environments and on-site installations. Common applications include: • ChromaLuxe aluminum photo panels • Acrylic photo prints and displays • Retail wall graphics and branded displays • Gallery and museum photo installations • Office décor and corporate artwork • Trade show and event displays",
+    "thumbnail": "https://img.youtube.com/vi/Zh2vCRVgX9o/mqdefault.jpg",
+    "published": "2025-12-09",
+    "url": "https://www.youtube.com/watch?v=Zh2vCRVgX9o",
+    "brand": "ChromaLuxe",
+    "model": "Finishing",
+    "technology": "Frames",
+    "format": "landscape",
+    "duration": "1:31"
+  },
+  {
+    "id": "CJd0i7bdg5Q",
+    "title": "NEW Summa F1625 Cutter Is Unreal - Accuracy, Speed & New ADC System Explained",
+    "description": "The brand-new Summa F1625 Flatbed Cutter is the next-generation workhorse cutter engineered for shops that need accuracy, automation, and speed at scale. We met with Bart at the Summa booth to go hands-on with the F1625 and watch it work fast at the Summa booth at Printing United. If your shop handles 4x8 sheets, packaging, signage, textiles, foam PVC, or banner materials, this cutter is built to take on everything you throw at it. Check out the Summa products on the LexJet website: https://www.lexjet.com/en/summa In this video we'll take a look at: The new ADC system that 3D-maps blade geometry for perfect cuts Why the F1625 is dramatically faster than previous models The new corrugated tool and what it means for thicker materials One-click automations for full-roll processing How accuracy, precision, and user-friendliness set the F1625 apart",
+    "thumbnail": "https://img.youtube.com/vi/CJd0i7bdg5Q/mqdefault.jpg",
+    "published": "2025-12-01",
+    "url": "https://www.youtube.com/watch?v=CJd0i7bdg5Q",
+    "brand": "Summa",
+    "model": "Finishing, Summa F1625",
+    "technology": "Cutters",
+    "format": "landscape",
+    "duration": "2:53"
+  },
+  {
+    "id": "akIxF07KR30",
+    "title": "Summa S3 Cutter - Print Shop Workhorse for Vinyl, Reflective, and More",
+    "description": "ere at PRINTING United 2025 inside the Summa booth, with Mike Richardson giving a quick, real-world breakdown of the Summa S3. View Summa's Products on the LexJet website: https://www.lexjet.com/en/summa The plotting cutter is engineered for both entry-level and high-output shops, but where the Summa S3 shines is volume, force, and versatility. Same size footprint as the S One cutter, but more power 1000 grams downforce from the tangential blade Cuts up to 1.25mm thick media Built for mass production and 24/7 shop use Extreme versatility: vinyl ? reflective ? OEM power sports decals Status light bar helps you set it and monitor it while you work",
+    "thumbnail": "https://img.youtube.com/vi/akIxF07KR30/mqdefault.jpg",
+    "published": "2025-12-01",
+    "url": "https://www.youtube.com/watch?v=akIxF07KR30",
+    "brand": "Summa",
+    "model": "Finishing, Summa S3",
+    "technology": "Cutters",
+    "format": "landscape",
+    "duration": "2:35"
   }
 ]
