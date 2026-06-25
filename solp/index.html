@@ -137,9 +137,9 @@
   .col:has(.vl-desc-wrap:hover) { position: relative; z-index: 100; }
 
   /* ─── Tags (Bootstrap badge overrides) ──────────────────────── */
-  .vl-tag-brand      { background: #e8f0fe !important; color: #1a73e8 !important; }
-  .vl-tag-model      { background: #fce8e6 !important; color: #d93025 !important; }
-  .vl-tag-technology { background: #e6f4ea !important; color: #188038 !important; }
+  .vl-tag-brand    { background: #e8f0fe !important; color: #1a73e8 !important; }
+  .vl-tag-product  { background: #fce8e6 !important; color: #d93025 !important; }
+  .vl-tag-category { background: #e6f4ea !important; color: #188038 !important; }
 
   /* ─── Copy button ───────────────────────────────────────────── */
   .vl-copy-btn {
@@ -204,12 +204,12 @@
         <option value="">All Brands</option>
       </select>
 
-      <select class="form-select form-select-sm" id="vl-model" style="min-width:130px;max-width:200px;">
-        <option value="">All Models</option>
+      <select class="form-select form-select-sm" id="vl-product" style="min-width:130px;max-width:200px;">
+        <option value="">All Products</option>
       </select>
 
-      <select class="form-select form-select-sm" id="vl-tech" style="min-width:140px;max-width:200px;">
-        <option value="">All Technologies</option>
+      <select class="form-select form-select-sm" id="vl-category" style="min-width:140px;max-width:200px;">
+        <option value="">All Categories</option>
       </select>
 
       <select class="form-select form-select-sm" id="vl-sort" style="min-width:130px;max-width:170px;">
@@ -255,8 +255,8 @@
   const grid     = document.getElementById('vl-grid');
   const searchEl = document.getElementById('vl-search');
   const brandEl  = document.getElementById('vl-brand');
-  const modelEl  = document.getElementById('vl-model');
-  const techEl   = document.getElementById('vl-tech');
+  const productEl  = document.getElementById('vl-product');
+  const categoryEl = document.getElementById('vl-category');
   const sortEl   = document.getElementById('vl-sort');
   const resetBtn = document.getElementById('vl-reset');
   const countEl  = document.getElementById('vl-count');
@@ -289,21 +289,21 @@
   // ── Populate filter dropdowns ────────────────────────────────
   function populateFilters(videos) {
     const brands = [...new Set(videos.flatMap(v => splitField(v.brand)))].sort();
-    const models = [...new Set(videos.flatMap(v => splitField(v.model)))].sort();
-    const techs  = [...new Set(videos.flatMap(v => splitField(v.technology)))].sort();
-    brands.forEach(b => brandEl.insertAdjacentHTML('beforeend', `<option value="${esc(b)}">${esc(b)}</option>`));
-    models.forEach(m => modelEl.insertAdjacentHTML('beforeend', `<option value="${esc(m)}">${esc(m)}</option>`));
-    techs.forEach(t  => techEl.insertAdjacentHTML('beforeend',  `<option value="${esc(t)}">${esc(t)}</option>`));
+    const products   = [...new Set(videos.flatMap(v => splitField(v.product)))].sort();
+    const categories = [...new Set(videos.flatMap(v => splitField(v.category)))].sort();
+    brands.forEach(b     => brandEl.insertAdjacentHTML('beforeend',    `<option value="${esc(b)}">${esc(b)}</option>`));
+    products.forEach(p   => productEl.insertAdjacentHTML('beforeend',  `<option value="${esc(p)}">${esc(p)}</option>`));
+    categories.forEach(c => categoryEl.insertAdjacentHTML('beforeend', `<option value="${esc(c)}">${esc(c)}</option>`));
   }
 
   // ── Event listeners ──────────────────────────────────────────
   searchEl.addEventListener('input',  applyFilters);
   brandEl.addEventListener('change',  applyFilters);
-  modelEl.addEventListener('change',  applyFilters);
-  techEl.addEventListener('change',   applyFilters);
-  sortEl.addEventListener('change',   applyFilters);
+  productEl.addEventListener('change',  applyFilters);
+  categoryEl.addEventListener('change', applyFilters);
+  sortEl.addEventListener('change',     applyFilters);
   resetBtn.addEventListener('click', () => {
-    searchEl.value = brandEl.value = modelEl.value = techEl.value = '';
+    searchEl.value = brandEl.value = productEl.value = categoryEl.value = '';
     sortEl.value = 'newest';
     applyFilters();
   });
@@ -312,14 +312,14 @@
   function applyFilters() {
     const q     = searchEl.value.trim().toLowerCase();
     const brand = brandEl.value;
-    const model = modelEl.value;
-    const tech  = techEl.value;
+    const product  = productEl.value;
+    const category = categoryEl.value;
     const sort  = sortEl.value;
 
     filtered = allVideos.filter(v => {
       if (brand && !splitField(v.brand).includes(brand))     return false;
-      if (model && !splitField(v.model).includes(model))     return false;
-      if (tech  && !splitField(v.technology).includes(tech)) return false;
+      if (product  && !splitField(v.product).includes(product))   return false;
+      if (category && !splitField(v.category).includes(category)) return false;
       if (q) {
         if (!`${v.title} ${v.description}`.toLowerCase().includes(q)) return false;
       }
@@ -401,8 +401,8 @@
 
     const tags = [
       ...splitField(v.brand).map(b      => `<span class="badge rounded-pill vl-tag-brand">${esc(b)}</span>`),
-      ...splitField(v.model).map(m      => `<span class="badge rounded-pill vl-tag-model">${esc(m)}</span>`),
-      ...splitField(v.technology).map(t => `<span class="badge rounded-pill vl-tag-technology">${esc(t)}</span>`),
+      ...splitField(v.product).map(p  => `<span class="badge rounded-pill vl-tag-product">${esc(p)}</span>`),
+      ...splitField(v.category).map(c => `<span class="badge rounded-pill vl-tag-category">${esc(c)}</span>`),
     ].join('');
 
     const dateStr = v.published
