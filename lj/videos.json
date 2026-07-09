@@ -1,5 +1,44 @@
 [
   {
+    "id": "awjYWfNillw",
+    "title": "HP PrintOS Production Hub Overview | Improve Print Shop Efficiency",
+    "description": "Managing multiple printers and jobs doesn’t have to be complicated. HP PrintOS Production Hub brings everything into one place, allowing you to monitor production, track jobs, and optimize workflow in real time. In this HP Training video, we cover five key Production Hub tools that help improve visibility, reduce delays, and streamline print operations.",
+    "thumbnail": "https://img.youtube.com/vi/awjYWfNillw/mqdefault.jpg",
+    "published": "2026-07-06",
+    "url": "https://www.youtube.com/watch?v=awjYWfNillw",
+    "brand": "HP",
+    "product": "printOS",
+    "category": "Software, RIP Software",
+    "format": "landscape",
+    "duration": "2:22"
+  },
+  {
+    "id": "QcitQajfcYY",
+    "title": "Healing Walls: How One Print Shop Is Changing Rooms for Kids With Autism",
+    "description": "Some print jobs mean more than others. Costa Cover, a Florida-based wallpaper print shop, created the CC Care program to donate sensory-friendly wall murals and wallcoverings to schools and care centers serving children with autism and other neurodivergent needs. Their specially developed Comfort Collection features calming, nature-inspired patterns in muted tones. Oceans, forests, and animals all designed to soothe the senses rather than overwhelm them. With multiple texture options, from smooth to canvas to grasscloth, every detail is considered for children who experience the world differently. Color consistency across panels, fire-rated materials, and GREENGUARD Gold certified inks make the work suitable and safe for these environments. LexJet's Elements Type II Vinyl and media portfolio make it possible for Costa Cover to produce this work with the quality and consistency these spaces deserve.",
+    "thumbnail": "https://img.youtube.com/vi/QcitQajfcYY/mqdefault.jpg",
+    "published": "2026-06-30",
+    "url": "https://www.youtube.com/watch?v=QcitQajfcYY",
+    "brand": "LexJet, Epson",
+    "product": "Epson R5070",
+    "category": "Printers, Wall Graphics, Wall Covering, Solvent",
+    "format": "landscape",
+    "duration": "2:59"
+  },
+  {
+    "id": "r2KdL4VaDcA",
+    "title": "Tour the LexJet Experience Center",
+    "description": "Take a quick tour of the LexJet Experience Center, where customers can test equipment, explore media, and see real-world print applications in action. From flatbeds and roll-to-roll printers to finishing and hybrid solutions, this space is designed for hands-on learning and live demos.",
+    "thumbnail": "https://img.youtube.com/vi/r2KdL4VaDcA/mqdefault.jpg",
+    "published": "2026-06-29",
+    "url": "https://www.youtube.com/watch?v=r2KdL4VaDcA",
+    "brand": "LexJet",
+    "product": "Experience Center",
+    "category": "Experience Center",
+    "format": "landscape",
+    "duration": "4:51"
+  },
+  {
     "id": "IFefEX9GPDA",
     "title": "Duraluxe Metal Panels | Changes to Metal Sublimation",
     "description": "If your metal sublimation panels are chipping at the edges, cracking under flex, or falling apart after cutting, you're using the wrong panels. Duraluxe uses a powder-coated surface that stays intact through cutting, flexing, and outdoor exposure, backed by a five-year UV color fading warranty for exterior applications. No VOCs, Italian manufacturing, and US production coming in 2027.\n\nBeyond durability, Duraluxe offers nine distinct finishes including gloss, matte, satin, textured, Ice Touch, Wall Sky, Salt Lake, glow in the dark, and brush matte. These finishes open up applications like retail displays, interior decor, hospitality projects, and architectural signage that standard metal prints simply can't touch.\n\nIn this video we cover everything you need to get the best results. Heat press calibration, why Nomex outperforms parchment paper, why 70 to 80 GSM transfer paper beats heavier multi-use papers, and why pressing face down is one of the most important changes you can make for consistent output.",
@@ -1073,7 +1112,7 @@
     "published": "2025-08-08",
     "url": "https://www.youtube.com/watch?v=_dCMIjnZYV8",
     "brand": "HP",
-    "product": "HP Latex 830",
+    "product": "HP Latex 830, printOS",
     "category": "Printers, Latex",
     "format": "landscape",
     "duration": "4:13"
