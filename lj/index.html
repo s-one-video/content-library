@@ -396,9 +396,10 @@
 
   function cardHTML(v) {
     const isShort  = (v.format || '').toLowerCase() === 'short';
-    const thumbUrl = isShort
+    const thumbUrl    = isShort
       ? `https://img.youtube.com/vi/${esc(v.id)}/hqdefault.jpg`
-      : `https://img.youtube.com/vi/${esc(v.id)}/mqdefault.jpg`;
+      : `https://img.youtube.com/vi/${esc(v.id)}/maxresdefault.jpg`;
+    const thumbFallback = isShort ? '' : `this.onerror=null;this.src='https://img.youtube.com/vi/${esc(v.id)}/mqdefault.jpg'`;
 
     const tags = [
       ...splitField(v.brand).map(b    => `<span class="badge rounded-pill vl-tag-brand">${esc(b)}</span>`),
@@ -414,7 +415,7 @@
       <div class="col">
         <a class="vl-card" href="${esc(v.url)}" target="_blank" rel="noopener noreferrer">
           <div class="vl-thumb">
-            <img src="${thumbUrl}" alt="${esc(v.title)}" loading="lazy">
+            <img src="${thumbUrl}" alt="${esc(v.title)}" loading="lazy" onerror="${thumbFallback}">
             <div class="vl-play">
               <svg viewBox="0 0 68 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <rect width="68" height="48" rx="10" fill="rgba(0,0,0,.7)"/>
