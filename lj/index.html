@@ -17,9 +17,15 @@
     color: #fff;
     padding: 18px 24px 16px;
     border-bottom: 3px solid var(--accent-light);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
   }
   .vl-header h1 { font-size: 1.3rem; font-weight: 700; margin: 0; }
   .vl-header p  { font-size: 0.82rem; opacity: .7; margin: 2px 0 0; }
+  .vl-update-link { font-size: .78rem; color: #fff; opacity: .85; text-decoration: none; white-space: nowrap; flex-shrink: 0; }
+  .vl-update-link:hover { opacity: 1; text-decoration: underline; color: #fff; }
 
   /* ─── Controls bar ──────────────────────────────────────────── */
   .vl-controls {
@@ -185,8 +191,11 @@
 <div id="vl-app">
 
   <div class="vl-header">
-    <h1 id="vl-title"></h1>
-    <p id="vl-subtitle"></p>
+    <div>
+      <h1 id="vl-title"></h1>
+      <p id="vl-subtitle"></p>
+    </div>
+    <a id="vl-update-link" href="#" class="vl-update-link" data-bs-toggle="modal" data-bs-target="#vl-update-modal" style="display:none"></a>
   </div>
 
   <div class="vl-controls">
@@ -239,6 +248,21 @@
 
 </div>
 
+<!-- Latest Update Modal -->
+<div class="modal fade" id="vl-update-modal" tabindex="-1" aria-labelledby="vl-update-modal-label" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="vl-update-modal-label">Latest Update</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <ul id="vl-update-list" class="list-unstyled mb-0"></ul>
+      </div>
+    </div>
+  </div>
+</div>
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 <script>
 (function () {
@@ -267,10 +291,11 @@
     allVideos = CONFIG.INLINE_DATA;
     populateFilters(allVideos);
     applyFilters();
+    setupUpdateLink();
   } else {
     fetch(CONFIG.jsonUrl)
       .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
-      .then(data => { allVideos = data; populateFilters(data); applyFilters(); })
+      .then(data => { allVideos = data; populateFilters(data); applyFilters(); setupUpdateLink(); })
       .catch(err => {
         grid.innerHTML = `
           <div class="vl-state">
@@ -471,6 +496,18 @@
   };
 
   // ── Utility ───────────────────────────────────────────────────
+  function setupUpdateLink() {
+    if (!allVideos.length) return;
+    const latestDate = allVideos.reduce((max, v) => v.published > max ? v.published : max, '');
+    if (!latestDate) return;
+    const latest = allVideos.filter(v => v.published === latestDate);
+    const [y, m, d] = latestDate.split('-');
+    document.getElementById('vl-update-link').textContent = `Latest Update: ${m}/${d}/${y}`;
+    document.getElementById('vl-update-link').style.display = '';
+    document.getElementById('vl-update-list').innerHTML =
+      latest.map(v => `<li class="py-2 border-bottom">${esc(v.title)}</li>`).join('');
+  }
+
   function esc(str) {
     if (!str) return '';
     return String(str)
