@@ -222,6 +222,10 @@
         <option value="">All Categories</option>
       </select>
 
+      <select class="form-select form-select-sm" id="vl-ptype" style="min-width:150px;max-width:210px;">
+        <option value="">All Product Types</option>
+      </select>
+
       <select class="form-select form-select-sm" id="vl-sort" style="min-width:130px;max-width:170px;">
         <option value="newest">Newest First</option>
         <option value="oldest">Oldest First</option>
@@ -282,6 +286,7 @@
   const brandEl    = document.getElementById('vl-brand');
   const productEl  = document.getElementById('vl-product');
   const categoryEl = document.getElementById('vl-category');
+  const ptypeEl    = document.getElementById('vl-ptype');
   const sortEl   = document.getElementById('vl-sort');
   const resetBtn = document.getElementById('vl-reset');
   const countEl  = document.getElementById('vl-count');
@@ -317,9 +322,11 @@
     const brands     = [...new Set(videos.flatMap(v => splitField(v.brand)))].sort();
     const products   = [...new Set(videos.flatMap(v => splitField(v.product)))].sort();
     const categories = [...new Set(videos.flatMap(v => splitField(v.category)))].sort();
+    const ptypes     = [...new Set(videos.flatMap(v => splitField(v.product_type)))].filter(Boolean).sort();
     brands.forEach(b     => brandEl.insertAdjacentHTML('beforeend',    `<option value="${esc(b)}">${esc(b)}</option>`));
     products.forEach(p   => productEl.insertAdjacentHTML('beforeend',  `<option value="${esc(p)}">${esc(p)}</option>`));
     categories.forEach(c => categoryEl.insertAdjacentHTML('beforeend', `<option value="${esc(c)}">${esc(c)}</option>`));
+    ptypes.forEach(t     => ptypeEl.insertAdjacentHTML('beforeend',    `<option value="${esc(t)}">${esc(t)}</option>`));
   }
 
   // ── Event listeners ──────────────────────────────────────────
@@ -327,9 +334,10 @@
   brandEl.addEventListener('change',    applyFilters);
   productEl.addEventListener('change',  applyFilters);
   categoryEl.addEventListener('change', applyFilters);
+  ptypeEl.addEventListener('change',    applyFilters);
   sortEl.addEventListener('change',     applyFilters);
   resetBtn.addEventListener('click', () => {
-    searchEl.value = brandEl.value = productEl.value = categoryEl.value = '';
+    searchEl.value = brandEl.value = productEl.value = categoryEl.value = ptypeEl.value = '';
     sortEl.value = 'newest';
     applyFilters();
   });
@@ -340,12 +348,14 @@
     const brand    = brandEl.value;
     const product  = productEl.value;
     const category = categoryEl.value;
+    const ptype    = ptypeEl.value;
     const sort  = sortEl.value;
 
     filtered = allVideos.filter(v => {
-      if (brand    && !splitField(v.brand).includes(brand))       return false;
-      if (product  && !splitField(v.product).includes(product))   return false;
-      if (category && !splitField(v.category).includes(category)) return false;
+      if (brand    && !splitField(v.brand).includes(brand))             return false;
+      if (product  && !splitField(v.product).includes(product))         return false;
+      if (category && !splitField(v.category).includes(category))       return false;
+      if (ptype    && !splitField(v.product_type).includes(ptype))      return false;
       if (q) {
         if (!`${v.title} ${v.description}`.toLowerCase().includes(q)) return false;
       }

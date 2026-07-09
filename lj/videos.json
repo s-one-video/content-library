@@ -9,6 +9,7 @@
     "brand": "HP",
     "product": "printOS",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "2:22"
   },
@@ -22,6 +23,7 @@
     "brand": "LexJet, Epson",
     "product": "Epson R5070",
     "category": "Printers, Wall Graphics, Wall Covering, Solvent",
+    "product_type": "Equipment/Hardware - Printers, Textile - Adhesive Backed Fabric, Wallcoverings - Adhesive Backed Wallcoverings",
     "format": "landscape",
     "duration": "2:59"
   },
@@ -35,6 +37,7 @@
     "brand": "LexJet",
     "product": "Experience Center",
     "category": "Experience Center",
+    "product_type": "",
     "format": "landscape",
     "duration": "4:51"
   },
@@ -48,6 +51,7 @@
     "brand": "Duraluxe",
     "product": "",
     "category": "Dye Sublimation, Photo Panels, Metal Panels",
+    "product_type": "Rigid Substrates - Metal",
     "format": "landscape",
     "duration": "4:01"
   },
@@ -61,6 +65,7 @@
     "brand": "ORAFOL",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "12:26"
   },
@@ -74,6 +79,7 @@
     "brand": "Canon",
     "product": "Canon Colorado",
     "category": "Printers, UVgel, Fabric",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "4:25"
   },
@@ -87,6 +93,7 @@
     "brand": "General Formulations",
     "product": "",
     "category": "Vinyl, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "6:17"
   },
@@ -100,6 +107,7 @@
     "brand": "Arlon",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "5:14"
   },
@@ -113,6 +121,7 @@
     "brand": "Canon",
     "product": "Canon Colorado",
     "category": "Printers, UVgel, Wall Graphics",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "5:08"
   },
@@ -126,6 +135,7 @@
     "brand": "Arlon",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "3:00"
   },
@@ -139,6 +149,7 @@
     "brand": "EFI",
     "product": "EFI Pro 33r",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "6:27"
   },
@@ -152,6 +163,7 @@
     "brand": "SignComp",
     "product": "",
     "category": "Finishing, Fabric Displays, Fabric, Frames",
+    "product_type": "Finishing - Display Hardware",
     "format": "landscape",
     "duration": "6:22"
   },
@@ -165,6 +177,7 @@
     "brand": "Summa",
     "product": "Summa F1612",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Cutters",
     "format": "landscape",
     "duration": "3:37"
   },
@@ -178,6 +191,7 @@
     "brand": "ORAFOL",
     "product": "",
     "category": "Vinyl, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "4:04"
   },
@@ -191,6 +205,7 @@
     "brand": "HP",
     "product": "HP Latex R530",
     "category": "Printers, Latex, UV, Solvent, Resin",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "4:57"
   },
@@ -204,6 +219,7 @@
     "brand": "G2G",
     "product": "",
     "category": "Signage, Sign Lighting",
+    "product_type": "Finishing - Display Hardware",
     "format": "landscape",
     "duration": "6:18"
   },
@@ -217,6 +233,7 @@
     "brand": "Epson",
     "product": "Epson V4000",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "4:49"
   },
@@ -230,6 +247,7 @@
     "brand": "ISA",
     "product": "",
     "category": "Events, Trade Show",
+    "product_type": "",
     "format": "landscape",
     "duration": "5:03"
   },
@@ -243,6 +261,7 @@
     "brand": "ORAFOL",
     "product": "",
     "category": "Finishing, Vinyl, Laminate",
+    "product_type": "Film - Adhesive Backed Vinyl, Finishing - Film Laminates",
     "format": "landscape",
     "duration": "1:00"
   },
@@ -256,6 +275,7 @@
     "brand": "HP",
     "product": "",
     "category": "Window Graphics, Signage, Window Film",
+    "product_type": "Film - Adhesive Backed Polyester",
     "format": "landscape",
     "duration": "33:39"
   },
@@ -269,6 +289,7 @@
     "brand": "Duraluxe",
     "product": "",
     "category": "Dye Sublimation, Photo Panels, Metal Panels",
+    "product_type": "Rigid Substrates - Metal",
     "format": "landscape",
     "duration": "2:18"
   },
@@ -282,6 +303,7 @@
     "brand": "Duraluxe",
     "product": "",
     "category": "Dye Sublimation, Photo Panels, Signage, Metal Panels",
+    "product_type": "Rigid Substrates - Metal",
     "format": "landscape",
     "duration": "1:02"
   },
@@ -295,6 +317,7 @@
     "brand": "Epson",
     "product": "Epson V1070",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:09"
   },
@@ -308,6 +331,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF GP-Series",
     "category": "Printers, Signage",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "26:45"
   },
@@ -321,6 +345,7 @@
     "brand": "Epson",
     "product": "Epson SureLab",
     "category": "Printers, Dye Sublimation",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "25:28"
   },
@@ -334,6 +359,7 @@
     "brand": "HP, DreamScape",
     "product": "",
     "category": "Wall Graphics, Wall Covering",
+    "product_type": "Wallcoverings - Traditional",
     "format": "landscape",
     "duration": "32:30"
   },
@@ -347,6 +373,7 @@
     "brand": "SignComp",
     "product": "",
     "category": "Finishing, Fabric Displays, Fabric, Frames",
+    "product_type": "Finishing - Display Hardware",
     "format": "landscape",
     "duration": "8:34"
   },
@@ -360,6 +387,7 @@
     "brand": "LexJet",
     "product": "Misc",
     "category": "Company",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:46"
   },
@@ -373,6 +401,7 @@
     "brand": "EFI",
     "product": "EFI Pro 33r",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:19"
   },
@@ -386,6 +415,7 @@
     "brand": "Elements",
     "product": "",
     "category": "Wall Graphics, Wall Covering",
+    "product_type": "Wallcoverings - Traditional",
     "format": "landscape",
     "duration": "1:35"
   },
@@ -399,6 +429,7 @@
     "brand": "DTFuzion",
     "product": "DTF",
     "category": "Dye Sublimation",
+    "product_type": "",
     "format": "landscape",
     "duration": "8:58"
   },
@@ -412,6 +443,7 @@
     "brand": "DTFuzion, Epson, Practix",
     "product": "DTF",
     "category": "DTF",
+    "product_type": "",
     "format": "landscape",
     "duration": "5:51"
   },
@@ -425,6 +457,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "26:30"
   },
@@ -438,6 +471,7 @@
     "brand": "Epson",
     "product": "Epson V7000, Epson V1070",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "19:17"
   },
@@ -451,6 +485,7 @@
     "brand": "HP, PrintFactory, Summa",
     "product": "",
     "category": "Packaging",
+    "product_type": "",
     "format": "landscape",
     "duration": "34:46"
   },
@@ -464,6 +499,7 @@
     "brand": "ChromaLuxe",
     "product": "",
     "category": "Finishing, Mounting Hardware",
+    "product_type": "Finishing - Display Hardware",
     "format": "landscape",
     "duration": "1:31"
   },
@@ -477,6 +513,7 @@
     "brand": "Summa",
     "product": "Summa F1625",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Cutters",
     "format": "landscape",
     "duration": "2:53"
   },
@@ -490,6 +527,7 @@
     "brand": "Summa",
     "product": "Summa S3",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Cutters",
     "format": "landscape",
     "duration": "2:35"
   },
@@ -503,6 +541,7 @@
     "brand": "DTFuzion",
     "product": "DTF",
     "category": "Dye Sublimation",
+    "product_type": "",
     "format": "landscape",
     "duration": "27:24"
   },
@@ -516,6 +555,7 @@
     "brand": "HP",
     "product": "HP Latex 830W",
     "category": "Printers, Latex",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "29:57"
   },
@@ -529,6 +569,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "24:25"
   },
@@ -542,6 +583,7 @@
     "brand": "Fiery",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "3:50"
   },
@@ -555,6 +597,7 @@
     "brand": "Photo Tex",
     "product": "",
     "category": "Fabric, Photography",
+    "product_type": "Textile - Adhesive Backed Fabric",
     "format": "landscape",
     "duration": "4:02"
   },
@@ -568,6 +611,7 @@
     "brand": "Arlon",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "8:05"
   },
@@ -581,6 +625,7 @@
     "brand": "Jessup",
     "product": "",
     "category": "Finishing, Laminate",
+    "product_type": "Finishing - Film Laminates",
     "format": "landscape",
     "duration": "1:04"
   },
@@ -594,6 +639,7 @@
     "brand": "Canon",
     "product": "Canon Colorado",
     "category": "Printers, UVgel",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "13:20"
   },
@@ -607,6 +653,7 @@
     "brand": "Elements",
     "product": "",
     "category": "Fabric",
+    "product_type": "Textile - Fabrics",
     "format": "landscape",
     "duration": "0:54"
   },
@@ -620,6 +667,7 @@
     "brand": "Epson",
     "product": "Epson SureColor S7170",
     "category": "Printers, Solvent",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:25"
   },
@@ -633,6 +681,7 @@
     "brand": "Lexjet",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "9:59"
   },
@@ -646,6 +695,7 @@
     "brand": "Ultraflex",
     "product": "Print Media",
     "category": "Print Media",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:43"
   },
@@ -659,6 +709,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "11:00"
   },
@@ -672,6 +723,7 @@
     "brand": "Arlon",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "4:11"
   },
@@ -685,6 +737,7 @@
     "brand": "Jessup",
     "product": "",
     "category": "Floor Graphics, Wall Graphics",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "1:51"
   },
@@ -698,6 +751,7 @@
     "brand": "Canon",
     "product": "Canon Colorado XL",
     "category": "Printers, UVgel",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "4:05"
   },
@@ -711,6 +765,7 @@
     "brand": "General Formulations",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "9:58"
   },
@@ -724,6 +779,7 @@
     "brand": "Mimaki",
     "product": "Mimaki UJV300",
     "category": "Printers, UV DTF",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:04"
   },
@@ -737,6 +793,7 @@
     "brand": "Epson",
     "product": "Epson SureColor S7170",
     "category": "Printers, Solvent",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "18:00"
   },
@@ -750,6 +807,7 @@
     "brand": "ChromaLuxe",
     "product": "",
     "category": "Finishing, Mounting Hardware",
+    "product_type": "Finishing - Display Hardware",
     "format": "landscape",
     "duration": "6:02"
   },
@@ -763,6 +821,7 @@
     "brand": "Epson",
     "product": "Epson SureColor S7170",
     "category": "Printers, Solvent",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:32"
   },
@@ -776,6 +835,7 @@
     "brand": "HP, General Formulations",
     "product": "HP Latex R530",
     "category": "Vehicle Wraps, Signage, Wrap Film, Adhesive Vinyl",
+    "product_type": "",
     "format": "landscape",
     "duration": "23:25"
   },
@@ -789,6 +849,7 @@
     "brand": "Arlon",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "4:32"
   },
@@ -802,6 +863,7 @@
     "brand": "HP",
     "product": "HP Latex R530",
     "category": "Printers, Latex, Resin, Events",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:27"
   },
@@ -815,6 +877,7 @@
     "brand": "Canon",
     "product": "Canon Colorado XL",
     "category": "Printers, UVgel",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "7:50"
   },
@@ -828,6 +891,7 @@
     "brand": "DTFuzion",
     "product": "DTF",
     "category": "DTF",
+    "product_type": "",
     "format": "landscape",
     "duration": "3:28"
   },
@@ -841,6 +905,7 @@
     "brand": "Jessup",
     "product": "",
     "category": "Finishing, Laminate",
+    "product_type": "Finishing - Film Laminates",
     "format": "landscape",
     "duration": "1:30"
   },
@@ -854,6 +919,7 @@
     "brand": "General Formulations",
     "product": "",
     "category": "Finishing, Laminate",
+    "product_type": "Finishing - Film Laminates",
     "format": "landscape",
     "duration": "1:51"
   },
@@ -867,6 +933,7 @@
     "brand": "Elements",
     "product": "",
     "category": "Fabric, Dye Sublimation",
+    "product_type": "Textile - Fabrics",
     "format": "landscape",
     "duration": "1:42"
   },
@@ -880,6 +947,7 @@
     "brand": "Epson",
     "product": "",
     "category": "Dye Sublimation, Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "5:50"
   },
@@ -893,6 +961,7 @@
     "brand": "MacTac",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "2:32"
   },
@@ -906,6 +975,7 @@
     "brand": "HP",
     "product": "",
     "category": "Wall Graphics, Fabric, Wall Covering",
+    "product_type": "Textile - Adhesive Backed Fabric, Wallcoverings - Adhesive Backed Wallcoverings",
     "format": "landscape",
     "duration": "1:55"
   },
@@ -919,6 +989,7 @@
     "brand": "Arlon",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "1:26"
   },
@@ -932,6 +1003,7 @@
     "brand": "DTFuzion",
     "product": "DTF",
     "category": "DTF",
+    "product_type": "",
     "format": "landscape",
     "duration": "6:36"
   },
@@ -945,6 +1017,7 @@
     "brand": "Arlon",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "3:24"
   },
@@ -958,6 +1031,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers, Photography",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "7:30"
   },
@@ -971,6 +1045,7 @@
     "brand": "Canon",
     "product": "Canon Colorado XL",
     "category": "Printers, UVgel",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:09"
   },
@@ -984,6 +1059,7 @@
     "brand": "HP, Arlon",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "22:20"
   },
@@ -997,6 +1073,7 @@
     "brand": "DTFuzion",
     "product": "DTF",
     "category": "DTF",
+    "product_type": "",
     "format": "landscape",
     "duration": "25:10"
   },
@@ -1010,6 +1087,7 @@
     "brand": "Arlon",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "4:55"
   },
@@ -1023,6 +1101,7 @@
     "brand": "Marabu",
     "product": "",
     "category": "Finishing, Laminator",
+    "product_type": "Finishing - Liquid Laminates, Equipment/Hardware - Laminators",
     "format": "landscape",
     "duration": "2:43"
   },
@@ -1036,6 +1115,7 @@
     "brand": "DTFuzion",
     "product": "DTF",
     "category": "DTF",
+    "product_type": "",
     "format": "landscape",
     "duration": "0:42"
   },
@@ -1049,6 +1129,7 @@
     "brand": "Canon",
     "product": "",
     "category": "Software",
+    "product_type": "",
     "format": "landscape",
     "duration": "5:21"
   },
@@ -1062,6 +1143,7 @@
     "brand": "LexJet",
     "product": "Misc",
     "category": "Company",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:25"
   },
@@ -1075,6 +1157,7 @@
     "brand": "HP",
     "product": "",
     "category": "Banners, Printers, UV, Banner",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "19:57"
   },
@@ -1088,6 +1171,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF GP-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "23:59"
   },
@@ -1101,6 +1185,7 @@
     "brand": "Epson",
     "product": "Epson V7000",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "15:05"
   },
@@ -1114,6 +1199,7 @@
     "brand": "HP",
     "product": "HP Latex 830, printOS",
     "category": "Printers, Latex",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "4:13"
   },
@@ -1127,6 +1213,7 @@
     "brand": "Arlon",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "3:35"
   },
@@ -1140,6 +1227,7 @@
     "brand": "Arlon",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "4:34"
   },
@@ -1153,6 +1241,7 @@
     "brand": "Arlon",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "4:57"
   },
@@ -1166,6 +1255,7 @@
     "brand": "Arlon",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "3:37"
   },
@@ -1179,6 +1269,7 @@
     "brand": "LexJet, Arlon",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "2:31"
   },
@@ -1192,6 +1283,7 @@
     "brand": "Canon, LexJet",
     "product": "",
     "category": "Photography",
+    "product_type": "",
     "format": "landscape",
     "duration": "25:27"
   },
@@ -1205,6 +1297,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers, Fine Art, Photography",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "17:27"
   },
@@ -1218,6 +1311,7 @@
     "brand": "HP",
     "product": "",
     "category": "Window Graphics, Printers, Window Film",
+    "product_type": "Equipment/Hardware - Printers, Film - Adhesive Backed Polyester",
     "format": "landscape",
     "duration": "28:24"
   },
@@ -1231,6 +1325,7 @@
     "brand": "Epson",
     "product": "Epson P-Series",
     "category": "Printers, Photography",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "8:27"
   },
@@ -1244,6 +1339,7 @@
     "brand": "Fiery",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "2:21"
   },
@@ -1257,6 +1353,7 @@
     "brand": "Fiery",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "2:21"
   },
@@ -1270,6 +1367,7 @@
     "brand": "Fiery",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "2:15"
   },
@@ -1283,6 +1381,7 @@
     "brand": "Fiery",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "2:29"
   },
@@ -1296,6 +1395,7 @@
     "brand": "Canon",
     "product": "",
     "category": "Labels, Decals",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "39:30"
   },
@@ -1309,6 +1409,7 @@
     "brand": "Canon",
     "product": "",
     "category": "Window Graphics, Window Film",
+    "product_type": "Film - Adhesive Backed Polyester",
     "format": "landscape",
     "duration": "37:53"
   },
@@ -1322,6 +1423,7 @@
     "brand": "Canon",
     "product": "Canon Colorado",
     "category": "UVgel, FLXfinish, Photography",
+    "product_type": "",
     "format": "landscape",
     "duration": "6:29"
   },
@@ -1335,6 +1437,7 @@
     "brand": "HP",
     "product": "HP Latex R530",
     "category": "Printers, Latex, Resin",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:35"
   },
@@ -1348,6 +1451,7 @@
     "brand": "HP",
     "product": "HP Latex R530",
     "category": "Printers, Latex, Resin",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "19:51"
   },
@@ -1361,6 +1465,7 @@
     "brand": "Epson",
     "product": "Epson T-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "20:52"
   },
@@ -1374,6 +1479,7 @@
     "brand": "Stock and Roll",
     "product": "",
     "category": "Accessories, Take-up System",
+    "product_type": "Equipment/Hardware - Printer accessories",
     "format": "landscape",
     "duration": "2:15"
   },
@@ -1387,6 +1493,7 @@
     "brand": "Stock and Roll",
     "product": "",
     "category": "Accessories, Take-up System",
+    "product_type": "Equipment/Hardware - Printer accessories",
     "format": "landscape",
     "duration": "1:40"
   },
@@ -1400,6 +1507,7 @@
     "brand": "Epson",
     "product": "Epson SureColor R5070",
     "category": "Printers, Resin",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "10:22"
   },
@@ -1413,6 +1521,7 @@
     "brand": "HP",
     "product": "HP Latex 730, HP Latex 830",
     "category": "Printers, Latex",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "35:55"
   },
@@ -1426,6 +1535,7 @@
     "brand": "EFI",
     "product": "EFI VUTEk M3h",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "46:19"
   },
@@ -1439,6 +1549,7 @@
     "brand": "HP",
     "product": "HP Latex R530",
     "category": "Printers, Latex, Resin",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "0:55"
   },
@@ -1452,6 +1563,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Photography",
+    "product_type": "",
     "format": "landscape",
     "duration": "18:36"
   },
@@ -1465,6 +1577,7 @@
     "brand": "HP",
     "product": "HP Latex 730, HP Latex 830",
     "category": "Printers, Latex",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:04"
   },
@@ -1478,6 +1591,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "33:31"
   },
@@ -1491,6 +1605,7 @@
     "brand": "Graphtec",
     "product": "Graphtec FC9000",
     "category": "Print Media",
+    "product_type": "",
     "format": "landscape",
     "duration": "4:30"
   },
@@ -1504,6 +1619,7 @@
     "brand": "Marabu",
     "product": "",
     "category": "Finishing, Coating",
+    "product_type": "Finishing - Liquid Laminates",
     "format": "landscape",
     "duration": "2:27"
   },
@@ -1517,6 +1633,7 @@
     "brand": "Epson",
     "product": "Epson V1070",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "18:04"
   },
@@ -1530,6 +1647,7 @@
     "brand": "HP",
     "product": "HP Latex 630W",
     "category": "Printers, Latex",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "22:19"
   },
@@ -1543,6 +1661,7 @@
     "brand": "Canon, LexJet, Hahnemühle",
     "product": "",
     "category": "Photography, Fine Art, Fine Art Paper",
+    "product_type": "",
     "format": "landscape",
     "duration": "9:09"
   },
@@ -1556,6 +1675,7 @@
     "brand": "Epson",
     "product": "Epson SureColor S9170",
     "category": "Printers, Solvent",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "15:42"
   },
@@ -1569,6 +1689,7 @@
     "brand": "Epson",
     "product": "Epson SureColor S9170",
     "category": "Printers, Solvent",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:04"
   },
@@ -1582,6 +1703,7 @@
     "brand": "Canon",
     "product": "",
     "category": "Banners, Printers, Banner",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "28:00"
   },
@@ -1595,6 +1717,7 @@
     "brand": "Epson",
     "product": "Epson V1070",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "10:38"
   },
@@ -1608,6 +1731,7 @@
     "brand": "Epson",
     "product": "",
     "category": "Software",
+    "product_type": "",
     "format": "landscape",
     "duration": "32:02"
   },
@@ -1621,6 +1745,7 @@
     "brand": "Canon",
     "product": "",
     "category": "Photography, Fine Art, Vehicle Wraps, Canvas",
+    "product_type": "Textile - Canvas",
     "format": "landscape",
     "duration": "34:22"
   },
@@ -1634,6 +1759,7 @@
     "brand": "Epson",
     "product": "Epson SureColor F570",
     "category": "Printers, Dye Sublimation",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "18:08"
   },
@@ -1647,6 +1773,7 @@
     "brand": "Canon, LexJet",
     "product": "",
     "category": "Photography, Fine Art, Fine Art Paper",
+    "product_type": "",
     "format": "landscape",
     "duration": "15:59"
   },
@@ -1660,6 +1787,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "15:30"
   },
@@ -1673,6 +1801,7 @@
     "brand": "Lexjet",
     "product": "Industry Trends",
     "category": "Industry Trends",
+    "product_type": "",
     "format": "landscape",
     "duration": "3:14"
   },
@@ -1686,6 +1815,7 @@
     "brand": "UFabrik",
     "product": "",
     "category": "Fabric",
+    "product_type": "Textile - Fabrics",
     "format": "landscape",
     "duration": "0:41"
   },
@@ -1699,6 +1829,7 @@
     "brand": "Lexjet",
     "product": "",
     "category": "Photography, Fine Art, Fine Art Paper, Photo Paper",
+    "product_type": "Paper - Fine Art Paper, Paper - Photo Paper",
     "format": "landscape",
     "duration": "1:17"
   },
@@ -1712,6 +1843,7 @@
     "brand": "Canon, LexJet, Hahnemühle",
     "product": "",
     "category": "Photography, Fine Art, Fine Art Paper, Photo Paper",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:36"
   },
@@ -1725,6 +1857,7 @@
     "brand": "Sunset",
     "product": "",
     "category": "Photography, Fine Art, Fine Art Paper, Photo Paper",
+    "product_type": "Paper - Fine Art Paper",
     "format": "landscape",
     "duration": "1:16"
   },
@@ -1738,6 +1871,7 @@
     "brand": "Sunset",
     "product": "",
     "category": "Photography, Fine Art, Fine Art Paper, Photo Paper",
+    "product_type": "Paper - Fine Art Paper",
     "format": "landscape",
     "duration": "1:57"
   },
@@ -1751,6 +1885,7 @@
     "brand": "Marabu",
     "product": "",
     "category": "Ink",
+    "product_type": "Ink/Toner - Solvent Ink",
     "format": "landscape",
     "duration": "1:28"
   },
@@ -1764,6 +1899,7 @@
     "brand": "Sunset",
     "product": "",
     "category": "Photography, Fine Art, Fine Art Paper, Photo Paper",
+    "product_type": "Paper - Fine Art Paper",
     "format": "landscape",
     "duration": "1:59"
   },
@@ -1777,6 +1913,7 @@
     "brand": "Sunset",
     "product": "",
     "category": "Photography, Photo Paper",
+    "product_type": "Paper - Photo Paper",
     "format": "landscape",
     "duration": "2:01"
   },
@@ -1790,6 +1927,7 @@
     "brand": "Sunset",
     "product": "",
     "category": "Photography, Photo Paper",
+    "product_type": "Paper - Photo Paper",
     "format": "landscape",
     "duration": "1:55"
   },
@@ -1803,6 +1941,7 @@
     "brand": "Ultraflex",
     "product": "",
     "category": "Banners, Banner",
+    "product_type": "Banner - Vinyl Banner",
     "format": "landscape",
     "duration": "1:13"
   },
@@ -1816,6 +1955,7 @@
     "brand": "Epson",
     "product": "Epson SureColor S-Series",
     "category": "Printers, Solvent",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:18"
   },
@@ -1829,6 +1969,7 @@
     "brand": "Marabu",
     "product": "",
     "category": "Finishing, Coating",
+    "product_type": "Finishing - Liquid Laminates",
     "format": "landscape",
     "duration": "0:57"
   },
@@ -1842,6 +1983,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Photography",
+    "product_type": "",
     "format": "landscape",
     "duration": "21:24"
   },
@@ -1855,6 +1997,7 @@
     "brand": "Marabu",
     "product": "",
     "category": "Finishing, Coating",
+    "product_type": "Finishing - Liquid Laminates",
     "format": "landscape",
     "duration": "1:10"
   },
@@ -1868,6 +2011,7 @@
     "brand": "Epson",
     "product": "Epson SureColor R-Series",
     "category": "Printers, Resin",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:36"
   },
@@ -1881,6 +2025,7 @@
     "brand": "HP",
     "product": "HP Latex 700, HP Latex 800",
     "category": "Printers, Latex",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:16"
   },
@@ -1894,6 +2039,7 @@
     "brand": "HP",
     "product": "HP Latex 630W",
     "category": "Printers, Latex",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:43"
   },
@@ -1907,6 +2053,7 @@
     "brand": "Unisub",
     "product": "",
     "category": "Dye Sublimation, Acrylic",
+    "product_type": "Rigid Substrates - Rigid Acrylic",
     "format": "landscape",
     "duration": "3:19"
   },
@@ -1920,6 +2067,7 @@
     "brand": "Epson",
     "product": "Epson SureColor F170, Epson SureColor F570",
     "category": "Printers, Dye Sublimation",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:19"
   },
@@ -1933,6 +2081,7 @@
     "brand": "SignComp",
     "product": "",
     "category": "Finishing, Fabric Displays, Fabric, Signage, Frames",
+    "product_type": "Finishing - Display Hardware",
     "format": "landscape",
     "duration": "1:32"
   },
@@ -1946,6 +2095,7 @@
     "brand": "LexJet",
     "product": "Printer Maintenance",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "8:33"
   },
@@ -1959,6 +2109,7 @@
     "brand": "LexJet",
     "product": "Printer Maintenance",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "8:56"
   },
@@ -1972,6 +2123,7 @@
     "brand": "Epson",
     "product": "Epson T-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:49"
   },
@@ -1985,6 +2137,7 @@
     "brand": "LexJet",
     "product": "Printer Maintenance",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "6:36"
   },
@@ -1998,6 +2151,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:09"
   },
@@ -2011,6 +2165,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Fabric",
+    "product_type": "Textile - Fabrics",
     "format": "landscape",
     "duration": "1:30"
   },
@@ -2024,6 +2179,7 @@
     "brand": "Epson",
     "product": "Epson SureColor T5770D",
     "category": "Printers, Banners",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:00"
   },
@@ -2037,6 +2193,7 @@
     "brand": "Epson",
     "product": "Epson SureColor T5770D",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:08"
   },
@@ -2050,6 +2207,7 @@
     "brand": "Epson",
     "product": "Epson SureColor T5770D",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "4:05"
   },
@@ -2063,6 +2221,7 @@
     "brand": "Epson",
     "product": "Epson SureColor T7770D",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:07"
   },
@@ -2076,6 +2235,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Finishing, Fabric Displays, Fabric, Frames",
+    "product_type": "Finishing - Display Hardware",
     "format": "landscape",
     "duration": "2:53"
   },
@@ -2089,6 +2249,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers, Fine Art, Photography",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "7:47"
   },
@@ -2102,6 +2263,7 @@
     "brand": "LexJet",
     "product": "Customer Story",
     "category": "Customer Stories",
+    "product_type": "",
     "format": "landscape",
     "duration": "2:09"
   },
@@ -2115,6 +2277,7 @@
     "brand": "ImagePrint",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "0:59"
   },
@@ -2128,6 +2291,7 @@
     "brand": "ImagePrint",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "1:59"
   },
@@ -2141,6 +2305,7 @@
     "brand": "ImagePrint",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "3:27"
   },
@@ -2154,6 +2319,7 @@
     "brand": "ImagePrint",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "1:55"
   },
@@ -2167,6 +2333,7 @@
     "brand": "ImagePrint",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "3:15"
   },
@@ -2180,6 +2347,7 @@
     "brand": "ImagePrint",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "2:38"
   },
@@ -2193,6 +2361,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Photography",
+    "product_type": "",
     "format": "landscape",
     "duration": "19:54"
   },
@@ -2206,6 +2375,7 @@
     "brand": "XCEL",
     "product": "",
     "category": "Finishing, Fabric Displays, Fabric, Frames",
+    "product_type": "Finishing - Display Hardware",
     "format": "landscape",
     "duration": "4:22"
   },
@@ -2219,6 +2389,7 @@
     "brand": "Marabu",
     "product": "",
     "category": "Finishing, Coating",
+    "product_type": "Finishing - Liquid Laminates",
     "format": "landscape",
     "duration": "1:05"
   },
@@ -2232,6 +2403,7 @@
     "brand": "Epson",
     "product": "Epson SureColor T5770",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:15"
   },
@@ -2245,6 +2417,7 @@
     "brand": "Epson",
     "product": "Epson SureColor T3770, Epson SureColor T5770, Epson SureColor T7770",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "6:42"
   },
@@ -2258,6 +2431,7 @@
     "brand": "Epson",
     "product": "Epson V7000",
     "category": "Printers, UV, Signage",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:34"
   },
@@ -2271,6 +2445,7 @@
     "brand": "UFabrik",
     "product": "",
     "category": "Fabric, Banners, Signage",
+    "product_type": "Textile - Fabrics",
     "format": "landscape",
     "duration": "2:42"
   },
@@ -2284,6 +2459,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "20:46"
   },
@@ -2297,6 +2473,7 @@
     "brand": "XCEL",
     "product": "",
     "category": "Finishing, Fabric Displays, Fabric, Frames",
+    "product_type": "Finishing - Display Hardware",
     "format": "landscape",
     "duration": "20:51"
   },
@@ -2310,6 +2487,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series, Canon imagePROGRAF GP-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:10"
   },
@@ -2323,6 +2501,7 @@
     "brand": "Epson",
     "product": "Epson SureColor S-Series",
     "category": "Printers, Solvent",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "4:02"
   },
@@ -2336,6 +2515,7 @@
     "brand": "UFabrik",
     "product": "Customer Story",
     "category": "Customer Stories",
+    "product_type": "",
     "format": "landscape",
     "duration": "2:59"
   },
@@ -2349,6 +2529,7 @@
     "brand": "Epson",
     "product": "Epson F6470H",
     "category": "Printers, Dye Sublimation",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "6:51"
   },
@@ -2362,6 +2543,7 @@
     "brand": "Epson",
     "product": "Epson SureColor S80600",
     "category": "Printers, Solvent",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:18"
   },
@@ -2375,6 +2557,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Photography",
+    "product_type": "",
     "format": "landscape",
     "duration": "32:39"
   },
@@ -2388,6 +2571,7 @@
     "brand": "Epson",
     "product": "Epson SureColor",
     "category": "Printers, Dye Sublimation",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "5:37"
   },
@@ -2401,6 +2585,7 @@
     "brand": "UFabrik",
     "product": "",
     "category": "Fabric",
+    "product_type": "Textile - Fabrics",
     "format": "landscape",
     "duration": "3:31"
   },
@@ -2414,6 +2599,7 @@
     "brand": "UFabrik",
     "product": "",
     "category": "Fabric",
+    "product_type": "Textile - Fabrics",
     "format": "landscape",
     "duration": "3:23"
   },
@@ -2427,6 +2613,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series, Canon imagePROGRAF GP-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "57:56"
   },
@@ -2440,6 +2627,7 @@
     "brand": "LINTEC",
     "product": "",
     "category": "Window Graphics, Window Film",
+    "product_type": "Film - Adhesive Backed Polyester",
     "format": "landscape",
     "duration": "1:00"
   },
@@ -2453,6 +2641,7 @@
     "brand": "General Formulations",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "2:49"
   },
@@ -2466,6 +2655,7 @@
     "brand": "General Formulations",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "0:53"
   },
@@ -2479,6 +2669,7 @@
     "brand": "Marabu",
     "product": "",
     "category": "Finishing, Coating",
+    "product_type": "Finishing - Liquid Laminates",
     "format": "landscape",
     "duration": "3:23"
   },
@@ -2492,6 +2683,7 @@
     "brand": "Marabu",
     "product": "",
     "category": "Finishing, Laminator",
+    "product_type": "Finishing - Liquid Laminates, Equipment/Hardware - Laminators",
     "format": "landscape",
     "duration": "4:48"
   },
@@ -2505,6 +2697,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series, Canon imagePROGRAF GP-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:58"
   },
@@ -2518,6 +2711,7 @@
     "brand": "Epson",
     "product": "Epson T5470M",
     "category": "Printers, Window Graphics",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "0:50"
   },
@@ -2531,6 +2725,7 @@
     "brand": "Epson",
     "product": "Epson T5470M",
     "category": "Printers, Vehicle Wraps",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "0:58"
   },
@@ -2544,6 +2739,7 @@
     "brand": "Epson",
     "product": "Epson T5470M",
     "category": "Printers, Banners",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:00"
   },
@@ -2557,6 +2753,7 @@
     "brand": "Epson",
     "product": "Epson T5470M",
     "category": "Printers, Banners",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "0:49"
   },
@@ -2570,6 +2767,7 @@
     "brand": "Epson",
     "product": "Epson T5470M",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "0:41"
   },
@@ -2583,6 +2781,7 @@
     "brand": "Epson",
     "product": "Epson T5470M",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "0:38"
   },
@@ -2596,6 +2795,7 @@
     "brand": "Epson",
     "product": "Epson T5470M",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:27"
   },
@@ -2609,6 +2809,7 @@
     "brand": "Epson",
     "product": "Epson T5470M",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "5:06"
   },
@@ -2622,6 +2823,7 @@
     "brand": "Epson",
     "product": "Epson T5470M",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "0:43"
   },
@@ -2635,6 +2837,7 @@
     "brand": "Epson",
     "product": "Epson T5470M",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:17"
   },
@@ -2648,6 +2851,7 @@
     "brand": "Epson",
     "product": "Epson T5470M",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:21"
   },
@@ -2661,6 +2865,7 @@
     "brand": "Epson",
     "product": "Epson T5470M",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:18"
   },
@@ -2674,6 +2879,7 @@
     "brand": "Epson",
     "product": "Epson SureLab D1070",
     "category": "Printers, Dye Sublimation",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "5:07"
   },
@@ -2687,6 +2893,7 @@
     "brand": "Hahnemühle",
     "product": "",
     "category": "Photography, Fine Art, Fine Art Paper",
+    "product_type": "Paper - Fine Art Paper",
     "format": "landscape",
     "duration": "5:17"
   },
@@ -2700,6 +2907,7 @@
     "brand": "ChromaLuxe",
     "product": "",
     "category": "Dye Sublimation, Photo Panels, Metal Panels",
+    "product_type": "Rigid Substrates - Metal",
     "format": "landscape",
     "duration": "4:10"
   },
@@ -2713,6 +2921,7 @@
     "brand": "UFabrik",
     "product": "",
     "category": "Fabric, Dye Sublimation",
+    "product_type": "Textile - Fabrics",
     "format": "landscape",
     "duration": "3:56"
   },
@@ -2726,6 +2935,7 @@
     "brand": "Mimaki",
     "product": "Mimaki JV330-160",
     "category": "Printers, Vehicle Wraps, Signage",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "8:47"
   },
@@ -2739,6 +2949,7 @@
     "brand": "Mimaki",
     "product": "Mimaki CG-AR",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Cutting Plotters",
     "format": "landscape",
     "duration": "11:11"
   },
@@ -2752,6 +2963,7 @@
     "brand": "LexJet",
     "product": "Industry Trends",
     "category": "Industry Trends",
+    "product_type": "",
     "format": "landscape",
     "duration": "12:20"
   },
@@ -2765,6 +2977,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "22:35"
   },
@@ -2778,6 +2991,7 @@
     "brand": "UFabrik",
     "product": "",
     "category": "Fabric",
+    "product_type": "Textile - Fabrics",
     "format": "landscape",
     "duration": "11:52"
   },
@@ -2791,6 +3005,7 @@
     "brand": "Ultraflex",
     "product": "Print Media",
     "category": "Print Media",
+    "product_type": "",
     "format": "landscape",
     "duration": "5:18"
   },
@@ -2804,6 +3019,7 @@
     "brand": "Epson",
     "product": "Epson T5470M",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:00"
   },
@@ -2817,6 +3033,7 @@
     "brand": "Epson",
     "product": "Epson T5470M",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:24"
   },
@@ -2830,6 +3047,7 @@
     "brand": "Epson",
     "product": "Epson T5470M",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:47"
   },
@@ -2843,6 +3061,7 @@
     "brand": "Canon",
     "product": "Printer Maintenance",
     "category": "Printer Support, Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "22:21"
   },
@@ -2856,6 +3075,7 @@
     "brand": "Jessup",
     "product": "",
     "category": "Floor Graphics, Wall Graphics",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "3:45"
   },
@@ -2869,6 +3089,7 @@
     "brand": "Graphtec",
     "product": "Graphtec FC9000",
     "category": "Cutters, Software",
+    "product_type": "Equipment/Hardware - Cutters",
     "format": "landscape",
     "duration": "11:04"
   },
@@ -2882,6 +3103,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "9:54"
   },
@@ -2895,6 +3117,7 @@
     "brand": "Epson",
     "product": "Epson SureColor F570",
     "category": "Printers, Dye Sublimation",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "4:02"
   },
@@ -2908,6 +3131,7 @@
     "brand": "UFabrik",
     "product": "Customer Story",
     "category": "Customer Stories",
+    "product_type": "",
     "format": "landscape",
     "duration": "3:35"
   },
@@ -2921,6 +3145,7 @@
     "brand": "Ufabrik",
     "product": "Customer Story",
     "category": "Customer Stories",
+    "product_type": "",
     "format": "landscape",
     "duration": "0:54"
   },
@@ -2934,6 +3159,7 @@
     "brand": "Mactac",
     "product": "",
     "category": "Vinyl, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "1:57"
   },
@@ -2947,6 +3173,7 @@
     "brand": "Mactac",
     "product": "",
     "category": "Vinyl, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "1:49"
   },
@@ -2960,6 +3187,7 @@
     "brand": "Canon",
     "product": "Printer Tips",
     "category": "Printer Support, Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "29:38"
   },
@@ -2973,6 +3201,7 @@
     "brand": "Mimaki",
     "product": "Mimaki CJV330-160",
     "category": "Printers, Solvent",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "13:05"
   },
@@ -2986,6 +3215,7 @@
     "brand": "UFabrik & EFI",
     "product": "EFI VUTEk FabriVU",
     "category": "Printers, UV, Fabric",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:40"
   },
@@ -2999,6 +3229,7 @@
     "brand": "UFabrik",
     "product": "",
     "category": "Fabric",
+    "product_type": "Textile - Fabrics",
     "format": "landscape",
     "duration": "3:21"
   },
@@ -3012,6 +3243,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "21:49"
   },
@@ -3025,6 +3257,7 @@
     "brand": "Epson",
     "product": "Epson T5470M",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "7:30"
   },
@@ -3038,6 +3271,7 @@
     "brand": "EFI",
     "product": "EFI Pro 32r+",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "5:06"
   },
@@ -3051,6 +3285,7 @@
     "brand": "EFI",
     "product": "EFI Pro 32r+",
     "category": "Printers, UV, Wall Graphics",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "4:57"
   },
@@ -3064,6 +3299,7 @@
     "brand": "EFI",
     "product": "EFI Pro 32r+",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "8:11"
   },
@@ -3077,6 +3313,7 @@
     "brand": "Mimaki",
     "product": "Mimaki UV Printer",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "11:19"
   },
@@ -3090,6 +3327,7 @@
     "brand": "Canon",
     "product": "",
     "category": "Photography",
+    "product_type": "",
     "format": "landscape",
     "duration": "21:45"
   },
@@ -3103,6 +3341,7 @@
     "brand": "Epson",
     "product": "Epson SureColor R5070",
     "category": "Printers, Resin",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "58:03"
   },
@@ -3116,6 +3355,7 @@
     "brand": "Unisub",
     "product": "",
     "category": "Dye Sublimation, Acrylic",
+    "product_type": "Rigid Substrates - Metal",
     "format": "landscape",
     "duration": "4:05"
   },
@@ -3129,6 +3369,7 @@
     "brand": "Unisub",
     "product": "",
     "category": "Dye Sublimation",
+    "product_type": "",
     "format": "landscape",
     "duration": "3:43"
   },
@@ -3142,6 +3383,7 @@
     "brand": "EFI",
     "product": "EFI Pro 30f",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "17:01"
   },
@@ -3155,6 +3397,7 @@
     "brand": "EFI",
     "product": "EFI Pro 16h",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:09"
   },
@@ -3168,6 +3411,7 @@
     "brand": "Elements",
     "product": "",
     "category": "Photography, Fine Art, Canvas",
+    "product_type": "Textile - Canvas",
     "format": "landscape",
     "duration": "10:05"
   },
@@ -3181,6 +3425,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "40:53"
   },
@@ -3194,6 +3439,7 @@
     "brand": "Graphtec",
     "product": "",
     "category": "Software",
+    "product_type": "",
     "format": "landscape",
     "duration": "16:55"
   },
@@ -3207,6 +3453,7 @@
     "brand": "Mimaki",
     "product": "Mimaki UCJV300-160",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "9:59"
   },
@@ -3220,6 +3467,7 @@
     "brand": "Canon",
     "product": "Canon Colorado",
     "category": "Printers, UVgel",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:45"
   },
@@ -3233,6 +3481,7 @@
     "brand": "EFI",
     "product": "EFI Pro 30h",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:00"
   },
@@ -3246,6 +3495,7 @@
     "brand": "EFI",
     "product": "EFI Pro 30h",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:00"
   },
@@ -3259,6 +3509,7 @@
     "brand": "EFI",
     "product": "EFI Pro 30h",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:30"
   },
@@ -3272,6 +3523,7 @@
     "brand": "EFI",
     "product": "EFI Pro 30h",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:15"
   },
@@ -3285,6 +3537,7 @@
     "brand": "EFI",
     "product": "EFI Pro 30h",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:25"
   },
@@ -3298,6 +3551,7 @@
     "brand": "EFI",
     "product": "EFI Pro 30h",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "10:13"
   },
@@ -3311,6 +3565,7 @@
     "brand": "Canon",
     "product": "Canon Colorado",
     "category": "Printers, UVgel",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "10:00"
   },
@@ -3324,6 +3579,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series, Graphtec FC9000",
     "category": "Cutters",
+    "product_type": "Equipment/Hardware - Cutters",
     "format": "landscape",
     "duration": "1:24"
   },
@@ -3337,6 +3593,7 @@
     "brand": "EFI",
     "product": "EFI VUTEk FabriVU",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:00"
   },
@@ -3350,6 +3607,7 @@
     "brand": "EFI",
     "product": "EFI VUTEk FabriVU",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "5:00"
   },
@@ -3363,6 +3621,7 @@
     "brand": "EFI",
     "product": "EFI VUTEk FabriVU",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "4:35"
   },
@@ -3376,6 +3635,7 @@
     "brand": "EFI",
     "product": "EFI VUTEk FabriVU",
     "category": "Printers, UV, Signage",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:50"
   },
@@ -3389,6 +3649,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software, Software - Color Management Software",
     "format": "landscape",
     "duration": "3:33"
   },
@@ -3402,6 +3663,7 @@
     "brand": "Epson",
     "product": "Epson SureColor P9570",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "5:42"
   },
@@ -3415,6 +3677,7 @@
     "brand": "Hahnemühle",
     "product": "",
     "category": "Photography, Fine Art, Fine Art Paper",
+    "product_type": "Paper - Fine Art Paper",
     "format": "landscape",
     "duration": "6:57"
   },
@@ -3428,6 +3691,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "36:51"
   },
@@ -3441,6 +3705,7 @@
     "brand": "LexJet",
     "product": "Print Media",
     "category": "Print Media",
+    "product_type": "",
     "format": "landscape",
     "duration": "5:46"
   },
@@ -3454,6 +3719,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Fabric",
+    "product_type": "Textile - Adhesive Backed Fabric",
     "format": "landscape",
     "duration": "16:39"
   },
@@ -3467,6 +3733,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Window Graphics, Window Film",
+    "product_type": "Film - Adhesive Backed Polyester",
     "format": "landscape",
     "duration": "6:33"
   },
@@ -3480,6 +3747,7 @@
     "brand": "LexJet",
     "product": "Print Media",
     "category": "Print Media",
+    "product_type": "",
     "format": "landscape",
     "duration": "6:49"
   },
@@ -3493,6 +3761,7 @@
     "brand": "LexJet",
     "product": "Print Media",
     "category": "Company",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:00:41"
   },
@@ -3506,6 +3775,7 @@
     "brand": "Canon",
     "product": "",
     "category": "Software",
+    "product_type": "",
     "format": "landscape",
     "duration": "19:38"
   },
@@ -3519,6 +3789,7 @@
     "brand": "Canon",
     "product": "",
     "category": "Software",
+    "product_type": "",
     "format": "landscape",
     "duration": "33:32"
   },
@@ -3532,6 +3803,7 @@
     "brand": "Canon",
     "product": "",
     "category": "Software",
+    "product_type": "",
     "format": "landscape",
     "duration": "32:05"
   },
@@ -3545,6 +3817,7 @@
     "brand": "Canon",
     "product": "",
     "category": "Software",
+    "product_type": "",
     "format": "landscape",
     "duration": "33:48"
   },
@@ -3558,6 +3831,7 @@
     "brand": "Canon",
     "product": "",
     "category": "Software",
+    "product_type": "",
     "format": "landscape",
     "duration": "9:54"
   },
@@ -3571,6 +3845,7 @@
     "brand": "Canon",
     "product": "",
     "category": "Software",
+    "product_type": "",
     "format": "landscape",
     "duration": "11:26"
   },
@@ -3584,6 +3859,7 @@
     "brand": "UFabrik",
     "product": "Print Media",
     "category": "Print Media",
+    "product_type": "",
     "format": "landscape",
     "duration": "0:58"
   },
@@ -3597,6 +3873,7 @@
     "brand": "UFabrik & EFI",
     "product": "Print Media",
     "category": "Print Media",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:55"
   },
@@ -3610,6 +3887,7 @@
     "brand": "Mimaki",
     "product": "",
     "category": "Software",
+    "product_type": "",
     "format": "landscape",
     "duration": "6:49"
   },
@@ -3623,6 +3901,7 @@
     "brand": "Epson",
     "product": "Epson SD-10",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "4:18"
   },
@@ -3636,6 +3915,7 @@
     "brand": "Ultraflex",
     "product": "",
     "category": "Fabric",
+    "product_type": "Textile - Fabrics",
     "format": "landscape",
     "duration": "3:09"
   },
@@ -3649,6 +3929,7 @@
     "brand": "Graphtec",
     "product": "Graphtec FC9000",
     "category": "Print Media",
+    "product_type": "",
     "format": "landscape",
     "duration": "3:42"
   },
@@ -3662,6 +3943,7 @@
     "brand": "General Formulations",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "2:37"
   },
@@ -3675,6 +3957,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "6:16"
   },
@@ -3688,6 +3971,7 @@
     "brand": "Epson",
     "product": "Epson F9470",
     "category": "Printers, Dye Sublimation",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:11"
   },
@@ -3701,6 +3985,7 @@
     "brand": "Jessup",
     "product": "",
     "category": "Window Graphics, Window Film",
+    "product_type": "Film - Adhesive Backed Polyester",
     "format": "landscape",
     "duration": "2:48"
   },
@@ -3714,6 +3999,7 @@
     "brand": "LexJet",
     "product": "Work Table",
     "category": "Finishing",
+    "product_type": "Equipment/Hardware - Printer accessories",
     "format": "landscape",
     "duration": "3:07"
   },
@@ -3727,6 +4013,7 @@
     "brand": "Cutworx",
     "product": "Cutworx",
     "category": "Cutters",
+    "product_type": "Equipment/Hardware - Cutters",
     "format": "landscape",
     "duration": "5:25"
   },
@@ -3740,6 +4027,7 @@
     "brand": "Canon",
     "product": "Canon Colorado",
     "category": "Printers, UVgel",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "12:13"
   },
@@ -3753,6 +4041,7 @@
     "brand": "Epson",
     "product": "Epson SureColor S80600, Epson SureColor R5070",
     "category": "Printers, Solvent, Resin, Events",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:05"
   },
@@ -3766,6 +4055,7 @@
     "brand": "General Formulations",
     "product": "Print Media",
     "category": "Company",
+    "product_type": "",
     "format": "landscape",
     "duration": "2:13"
   },
@@ -3779,6 +4069,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Finishing, Fabric Displays, Banners, Fabric, Frames",
+    "product_type": "Finishing - Display Hardware",
     "format": "landscape",
     "duration": "3:06"
   },
@@ -3792,6 +4083,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Finishing, Fabric Displays, Banners, Frames",
+    "product_type": "Finishing - Banner Ups/ Power Tabs, Finishing - Display Hardware",
     "format": "landscape",
     "duration": "1:34"
   },
@@ -3805,6 +4097,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "1:37"
   },
@@ -3818,6 +4111,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Events, Trade Show",
+    "product_type": "",
     "format": "landscape",
     "duration": "0:32"
   },
@@ -3831,6 +4125,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "1:30"
   },
@@ -3844,6 +4139,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "3:09"
   },
@@ -3857,6 +4153,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Fabric",
+    "product_type": "Textile - Adhesive Backed Fabric",
     "format": "landscape",
     "duration": "5:18"
   },
@@ -3870,6 +4167,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Events, Trade Show",
+    "product_type": "",
     "format": "landscape",
     "duration": "0:30"
   },
@@ -3883,6 +4181,7 @@
     "brand": "LINTEC",
     "product": "",
     "category": "Window Graphics, Window Film",
+    "product_type": "Film - Adhesive Backed Polyester",
     "format": "landscape",
     "duration": "2:00"
   },
@@ -3896,6 +4195,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Signage",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:17"
   },
@@ -3909,6 +4209,7 @@
     "brand": "ChromaLuxe",
     "product": "",
     "category": "Dye Sublimation, Photo Panels, Photography, Signage, Metal Panels",
+    "product_type": "Rigid Substrates - Metal",
     "format": "landscape",
     "duration": "0:50"
   },
@@ -3922,6 +4223,7 @@
     "brand": "ChromaLuxe",
     "product": "",
     "category": "Dye Sublimation, Photo Panels, Metal Panels",
+    "product_type": "Rigid Substrates - Metal",
     "format": "landscape",
     "duration": "1:00"
   },
@@ -3935,6 +4237,7 @@
     "brand": "ChromaLuxe",
     "product": "",
     "category": "Dye Sublimation, Photo Panels, Photography, Metal Panels",
+    "product_type": "Rigid Substrates - Metal",
     "format": "landscape",
     "duration": "1:30"
   },
@@ -3948,6 +4251,7 @@
     "brand": "Epson",
     "product": "Epson SureColor P8570D",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "0:37"
   },
@@ -3961,6 +4265,7 @@
     "brand": "Epson",
     "product": "Epson SureColor T7770D",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "8:31"
   },
@@ -3974,6 +4279,7 @@
     "brand": "LINTEC",
     "product": "",
     "category": "Window Graphics, Window Film",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:00"
   },
@@ -3987,6 +4293,7 @@
     "brand": "Marabu",
     "product": "",
     "category": "Finishing, Coating",
+    "product_type": "Finishing - Liquid Laminates",
     "format": "landscape",
     "duration": "1:15"
   },
@@ -4000,6 +4307,7 @@
     "brand": "Elements",
     "product": "",
     "category": "Photography, Fine Art, Canvas",
+    "product_type": "Textile - Canvas",
     "format": "landscape",
     "duration": "5:27"
   },
@@ -4013,6 +4321,7 @@
     "brand": "Elements",
     "product": "",
     "category": "Photography, Fine Art, Canvas",
+    "product_type": "Textile - Canvas",
     "format": "landscape",
     "duration": "5:54"
   },
@@ -4026,6 +4335,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Photography, Fine Art, Fine Art Paper, Photo Paper",
+    "product_type": "Paper - Fine Art Paper",
     "format": "landscape",
     "duration": "0:38"
   },
@@ -4039,6 +4349,7 @@
     "brand": "Jessup",
     "product": "",
     "category": "Floor Graphics, Wall Graphics",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "1:15"
   },
@@ -4052,6 +4363,7 @@
     "brand": "HP",
     "product": "",
     "category": "Fabric",
+    "product_type": "Textile - Fabrics",
     "format": "landscape",
     "duration": "18:58"
   },
@@ -4065,6 +4377,7 @@
     "brand": "HP",
     "product": "",
     "category": "Banners, Banner",
+    "product_type": "Banner - Vinyl Banner",
     "format": "landscape",
     "duration": "12:16"
   },
@@ -4078,6 +4391,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "16:47"
   },
@@ -4091,6 +4405,7 @@
     "brand": "HP",
     "product": "",
     "category": "Banners, Banner",
+    "product_type": "Banner - Vinyl Banner",
     "format": "landscape",
     "duration": "12:29"
   },
@@ -4104,6 +4419,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "13:09"
   },
@@ -4117,6 +4433,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "11:08"
   },
@@ -4130,6 +4447,7 @@
     "brand": "Elements",
     "product": "",
     "category": "Photography, Fine Art, Canvas",
+    "product_type": "Textile - Canvas",
     "format": "landscape",
     "duration": "4:42"
   },
@@ -4143,6 +4461,7 @@
     "brand": "HP",
     "product": "",
     "category": "Fabric",
+    "product_type": "Textile - Fabrics",
     "format": "landscape",
     "duration": "16:03"
   },
@@ -4156,6 +4475,7 @@
     "brand": "HP",
     "product": "",
     "category": "Banners, Banner",
+    "product_type": "Banner - Vinyl Banner",
     "format": "landscape",
     "duration": "8:02"
   },
@@ -4169,6 +4489,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support, Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "9:12"
   },
@@ -4182,6 +4503,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "10:28"
   },
@@ -4195,6 +4517,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support, Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "12:15"
   },
@@ -4208,6 +4531,7 @@
     "brand": "LexJet",
     "product": "Customer Story",
     "category": "Customer Stories",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:00"
   },
@@ -4221,6 +4545,7 @@
     "brand": "LexJet",
     "product": "Industry Trends",
     "category": "Industry Trends",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:30"
   },
@@ -4234,6 +4559,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "8:25"
   },
@@ -4247,6 +4573,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "4:25"
   },
@@ -4260,6 +4587,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "4:44"
   },
@@ -4273,6 +4601,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "2:48"
   },
@@ -4286,6 +4615,7 @@
     "brand": "HP",
     "product": "",
     "category": "Photography, Photo Paper",
+    "product_type": "Paper - Photo Paper",
     "format": "landscape",
     "duration": "3:10"
   },
@@ -4299,6 +4629,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "8:15"
   },
@@ -4312,6 +4643,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "10:08"
   },
@@ -4325,6 +4657,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "6:02"
   },
@@ -4338,6 +4671,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "9:58"
   },
@@ -4351,6 +4685,7 @@
     "brand": "HP",
     "product": "",
     "category": "Wall Graphics, Wall Covering",
+    "product_type": "Wallcoverings - Traditional",
     "format": "landscape",
     "duration": "2:08"
   },
@@ -4364,6 +4699,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support, Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "4:40"
   },
@@ -4377,6 +4713,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "6:57"
   },
@@ -4390,6 +4727,7 @@
     "brand": "Marabu",
     "product": "",
     "category": "Finishing, Laminator",
+    "product_type": "Equipment/Hardware - Laminators, Finishing - Liquid Laminates",
     "format": "landscape",
     "duration": "1:10"
   },
@@ -4403,6 +4741,7 @@
     "brand": "LexJet",
     "product": "Misc",
     "category": "Company",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:05"
   },
@@ -4416,6 +4755,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Photography, Photo Paper",
+    "product_type": "Paper - Photo Paper",
     "format": "landscape",
     "duration": "0:56"
   },
@@ -4429,6 +4769,7 @@
     "brand": "LexJet",
     "product": "Misc",
     "category": "Company",
+    "product_type": "",
     "format": "landscape",
     "duration": "0:37"
   },
@@ -4442,6 +4783,7 @@
     "brand": "LexJet",
     "product": "Canon imagePROGRAF GP-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:50"
   },
@@ -4455,6 +4797,7 @@
     "brand": "HP",
     "product": "HP DesignJet Z9, HP DesignJet Z6",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:11"
   },
@@ -4468,6 +4811,7 @@
     "brand": "LexJet",
     "product": "Misc",
     "category": "Company",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:00"
   },
@@ -4481,6 +4825,7 @@
     "brand": "General Formulations",
     "product": "",
     "category": "Wall Graphics, Wall Covering, Adhesive Vinyl",
+    "product_type": "Wallcoverings - Adhesive Backed Wallcoverings",
     "format": "landscape",
     "duration": "1:43"
   },
@@ -4494,6 +4839,7 @@
     "brand": "HP",
     "product": "",
     "category": "Fabric",
+    "product_type": "Textile - Adhesive Backed Fabric",
     "format": "landscape",
     "duration": "6:14"
   },
@@ -4507,6 +4853,7 @@
     "brand": "General Formulations",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "1:38"
   },
@@ -4520,6 +4867,7 @@
     "brand": "General Formulations",
     "product": "",
     "category": "Window Graphics, Window Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Polyester",
     "format": "landscape",
     "duration": "2:00"
   },
@@ -4533,6 +4881,7 @@
     "brand": "General Formulations",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "1:40"
   },
@@ -4546,6 +4895,7 @@
     "brand": "General Formulations",
     "product": "",
     "category": "Vehicle Wraps, Wrap Film, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "1:40"
   },
@@ -4559,6 +4909,7 @@
     "brand": "HP",
     "product": "",
     "category": "Banners, Banner",
+    "product_type": "Banner - Vinyl Banner",
     "format": "landscape",
     "duration": "0:47"
   },
@@ -4572,6 +4923,7 @@
     "brand": "EFI",
     "product": "EFI Pro 30h",
     "category": "Printers, UV",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:57"
   },
@@ -4585,6 +4937,7 @@
     "brand": "Sunset",
     "product": "Image Awards",
     "category": "Photography, Image Awards",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:37"
   },
@@ -4598,6 +4951,7 @@
     "brand": "Sunset",
     "product": "Image Awards",
     "category": "Photography, Image Awards",
+    "product_type": "",
     "format": "landscape",
     "duration": "39:23"
   },
@@ -4611,6 +4965,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Floor Graphics, Wall Graphics, Window Graphics",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "7:47"
   },
@@ -4624,6 +4979,7 @@
     "brand": "Inshane Designs",
     "product": "",
     "category": "Vehicle Wraps, Signage, Wrap Film",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "9:40"
   },
@@ -4637,6 +4993,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "46:20"
   },
@@ -4650,6 +5007,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Photography",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:12:32"
   },
@@ -4663,6 +5021,7 @@
     "brand": "Hahnemühle",
     "product": "",
     "category": "Photography, Fine Art, Fine Art Paper",
+    "product_type": "Paper - Fine Art Paper",
     "format": "landscape",
     "duration": "57:14"
   },
@@ -4676,6 +5035,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Photography",
+    "product_type": "",
     "format": "landscape",
     "duration": "13:34"
   },
@@ -4689,6 +5049,7 @@
     "brand": "Canon",
     "product": "Canon Colorado",
     "category": "Printers, UVgel",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "26:43"
   },
@@ -4702,6 +5063,7 @@
     "brand": "ChromaLuxe",
     "product": "Customer Story",
     "category": "Customer Stories",
+    "product_type": "",
     "format": "landscape",
     "duration": "28:27"
   },
@@ -4715,6 +5077,7 @@
     "brand": "DigiPrint",
     "product": "Misc",
     "category": "Company",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:26"
   },
@@ -4728,6 +5091,7 @@
     "brand": "LexJet",
     "product": "Misc",
     "category": "Company",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:22"
   },
@@ -4741,6 +5105,7 @@
     "brand": "IntoPrint",
     "product": "IntoPrint RF8510",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:05"
   },
@@ -4754,6 +5119,7 @@
     "brand": "IntoPrint",
     "product": "IntoPrint RP530, IntoPrint RP530W",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:21"
   },
@@ -4767,6 +5133,7 @@
     "brand": "Mactac",
     "product": "",
     "category": "Wall Graphics, Wall Covering",
+    "product_type": "Wallcoverings - Adhesive Backed Wallcoverings",
     "format": "landscape",
     "duration": "1:20"
   },
@@ -4780,6 +5147,7 @@
     "brand": "Mactac",
     "product": "",
     "category": "Wall Graphics, Wall Covering",
+    "product_type": "Wallcoverings - Adhesive Backed Wallcoverings",
     "format": "landscape",
     "duration": "1:21"
   },
@@ -4793,6 +5161,7 @@
     "brand": "Mactac",
     "product": "",
     "category": "Wall Graphics, Wall Covering",
+    "product_type": "Wallcoverings - Adhesive Backed Wallcoverings",
     "format": "landscape",
     "duration": "1:29"
   },
@@ -4806,6 +5175,7 @@
     "brand": "Mactac",
     "product": "",
     "category": "Window Graphics, Window Film",
+    "product_type": "Film - Adhesive Backed Polyester",
     "format": "landscape",
     "duration": "1:30"
   },
@@ -4819,6 +5189,7 @@
     "brand": "ChromaLuxe",
     "product": "Customer Story",
     "category": "Customer Stories",
+    "product_type": "",
     "format": "landscape",
     "duration": "2:17"
   },
@@ -4832,6 +5203,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Photography, Fine Art, Fine Art Paper, Photo Paper",
+    "product_type": "Paper - Fine Art Paper",
     "format": "landscape",
     "duration": "1:11"
   },
@@ -4845,6 +5217,7 @@
     "brand": "Sunset",
     "product": "",
     "category": "Photography, Fine Art, Canvas",
+    "product_type": "Textile - Canvas",
     "format": "landscape",
     "duration": "1:15"
   },
@@ -4858,6 +5231,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers, Photography",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:37"
   },
@@ -4871,6 +5245,7 @@
     "brand": "LexJet",
     "product": "Misc",
     "category": "Company, Photography",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:34"
   },
@@ -4884,6 +5259,7 @@
     "brand": "Sunset",
     "product": "",
     "category": "Photography, Photo Paper",
+    "product_type": "Paper - Photo Paper",
     "format": "landscape",
     "duration": "1:26"
   },
@@ -4897,6 +5273,7 @@
     "brand": "Sunset",
     "product": "Image Awards",
     "category": "Photography, Image Awards",
+    "product_type": "",
     "format": "landscape",
     "duration": "0:12"
   },
@@ -4910,6 +5287,7 @@
     "brand": "HP",
     "product": "Print Media",
     "category": "Print Media",
+    "product_type": "Paper - Wet Strength Paper",
     "format": "landscape",
     "duration": "0:51"
   },
@@ -4923,6 +5301,7 @@
     "brand": "Epson",
     "product": "Epson SureColor F170",
     "category": "Printers, Dye Sublimation",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "4:38"
   },
@@ -4936,6 +5315,7 @@
     "brand": "HP",
     "product": "",
     "category": "Wide Format Printing, Bond Paper",
+    "product_type": "Paper - Coated Bond Paper",
     "format": "landscape",
     "duration": "1:10"
   },
@@ -4949,6 +5329,7 @@
     "brand": "LexJet",
     "product": "Customer Story",
     "category": "Company",
+    "product_type": "",
     "format": "landscape",
     "duration": "0:29"
   },
@@ -4962,6 +5343,7 @@
     "brand": "LexJet",
     "product": "Customer Story",
     "category": "Customer Stories",
+    "product_type": "",
     "format": "landscape",
     "duration": "5:19"
   },
@@ -4975,6 +5357,7 @@
     "brand": "LexJet",
     "product": "Misc",
     "category": "Company",
+    "product_type": "",
     "format": "landscape",
     "duration": "0:41"
   },
@@ -4988,6 +5371,7 @@
     "brand": "ONYX",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software, Software - Color Management Software",
     "format": "landscape",
     "duration": "1:44"
   },
@@ -5001,6 +5385,7 @@
     "brand": "HP",
     "product": "",
     "category": "Photography, Fine Art, Canvas",
+    "product_type": "Textile - Canvas",
     "format": "landscape",
     "duration": "2:06"
   },
@@ -5014,6 +5399,7 @@
     "brand": "HP",
     "product": "",
     "category": "Banners, Banner",
+    "product_type": "Banner - Vinyl Banner",
     "format": "landscape",
     "duration": "1:40"
   },
@@ -5027,6 +5413,7 @@
     "brand": "HP",
     "product": "",
     "category": "Banners, Banner",
+    "product_type": "Banner - Vinyl Banner",
     "format": "landscape",
     "duration": "1:25"
   },
@@ -5040,6 +5427,7 @@
     "brand": "LexJet",
     "product": "Print Media",
     "category": "Print Media",
+    "product_type": "",
     "format": "landscape",
     "duration": "2:20"
   },
@@ -5053,6 +5441,7 @@
     "brand": "LexJet",
     "product": "Print Media",
     "category": "Print Media",
+    "product_type": "",
     "format": "landscape",
     "duration": "2:15"
   },
@@ -5066,6 +5455,7 @@
     "brand": "Canon",
     "product": "Image Awards",
     "category": "Photography, Image Awards",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:02"
   },
@@ -5079,6 +5469,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:00"
   },
@@ -5092,6 +5483,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Wall Graphics, Wall Covering",
+    "product_type": "Wallcoverings - Traditional",
     "format": "landscape",
     "duration": "1:20"
   },
@@ -5105,6 +5497,7 @@
     "brand": "ChromaLuxe",
     "product": "",
     "category": "Dye Sublimation, Photo Panels, Photography, Metal Panels",
+    "product_type": "Rigid Substrates - Metal",
     "format": "landscape",
     "duration": "1:28"
   },
@@ -5118,6 +5511,7 @@
     "brand": "HP",
     "product": "",
     "category": "Vinyl, Adhesive Vinyl",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "1:25"
   },
@@ -5131,6 +5525,7 @@
     "brand": "HP",
     "product": "",
     "category": "Banners, Banner",
+    "product_type": "Banner - Vinyl Banner",
     "format": "landscape",
     "duration": "1:25"
   },
@@ -5144,6 +5539,7 @@
     "brand": "HP",
     "product": "Printer Tips",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:05"
   },
@@ -5157,6 +5553,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Wide Format Printing, Bond Paper",
+    "product_type": "Paper - Uncoated Bond Paper",
     "format": "landscape",
     "duration": "0:41"
   },
@@ -5170,6 +5567,7 @@
     "brand": "ChromaLuxe",
     "product": "",
     "category": "Dye Sublimation, Photo Panels, Photography, Metal Panels",
+    "product_type": "Rigid Substrates - Metal",
     "format": "landscape",
     "duration": "1:07"
   },
@@ -5183,6 +5581,7 @@
     "brand": "EFI",
     "product": "EFI Wide Format Printers",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "3:45"
   },
@@ -5196,6 +5595,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Displays, Display",
+    "product_type": "Finishing - Display Hardware",
     "format": "landscape",
     "duration": "1:22"
   },
@@ -5209,6 +5609,7 @@
     "brand": "HP",
     "product": "Print Media",
     "category": "Print Media",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:18"
   },
@@ -5222,6 +5623,7 @@
     "brand": "Sunset",
     "product": "",
     "category": "Photography, Fine Art, Canvas",
+    "product_type": "Textile - Canvas",
     "format": "landscape",
     "duration": "1:11"
   },
@@ -5235,6 +5637,7 @@
     "brand": "Sunset",
     "product": "",
     "category": "Photography, Fine Art, Fine Art Paper, Photo Paper",
+    "product_type": "Paper - Fine Art Paper",
     "format": "landscape",
     "duration": "1:17"
   },
@@ -5248,6 +5651,7 @@
     "brand": "Sunset",
     "product": "",
     "category": "Photography, Fine Art, Canvas",
+    "product_type": "Textile - Canvas",
     "format": "landscape",
     "duration": "1:15"
   },
@@ -5261,6 +5665,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Backlit Graphics, Backlit Film",
+    "product_type": "Film - Polyester",
     "format": "landscape",
     "duration": "0:59"
   },
@@ -5274,6 +5679,7 @@
     "brand": "HP",
     "product": "",
     "category": "Window Graphics, Window Film",
+    "product_type": "Film - Adhesive Backed Polyester",
     "format": "landscape",
     "duration": "1:25"
   },
@@ -5287,6 +5693,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Backlit Graphics, Window Graphics, Backlit Film",
+    "product_type": "Film - Polyester",
     "format": "landscape",
     "duration": "1:20"
   },
@@ -5300,6 +5707,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Window Graphics, Window Film",
+    "product_type": "Film - Adhesive Backed Polyester",
     "format": "landscape",
     "duration": "1:15"
   },
@@ -5313,6 +5721,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Window Graphics, Fabric, Window Film",
+    "product_type": "Textile - Adhesive Backed Fabric",
     "format": "landscape",
     "duration": "1:25"
   },
@@ -5326,6 +5735,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:08"
   },
@@ -5339,6 +5749,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:26"
   },
@@ -5352,6 +5763,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:05"
   },
@@ -5365,6 +5777,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "0:30"
   },
@@ -5378,6 +5791,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:05"
   },
@@ -5391,6 +5805,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:22"
   },
@@ -5404,6 +5819,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:18"
   },
@@ -5417,6 +5833,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "0:56"
   },
@@ -5430,6 +5847,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:11"
   },
@@ -5443,6 +5861,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:16"
   },
@@ -5456,6 +5875,7 @@
     "brand": "Canon",
     "product": "Printer Tips",
     "category": "Printer Support",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:07:00"
   },
@@ -5469,6 +5889,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "0:53"
   },
@@ -5482,6 +5903,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:04"
   },
@@ -5495,6 +5917,7 @@
     "brand": "Canon",
     "product": "Canon imagePROGRAF PRO-Series",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:16"
   },
@@ -5508,6 +5931,7 @@
     "brand": "HP",
     "product": "",
     "category": "Banners, Banner",
+    "product_type": "Banner - Vinyl Banner",
     "format": "landscape",
     "duration": "1:05"
   },
@@ -5521,6 +5945,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Floor Graphics, Wall Graphics",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "1:15"
   },
@@ -5534,6 +5959,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Floor Graphics, Wall Graphics",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "1:10"
   },
@@ -5547,6 +5973,7 @@
     "brand": "DreamScape",
     "product": "",
     "category": "Wall Graphics, Vehicle Wraps, Wall Covering",
+    "product_type": "Wallcoverings - Traditional",
     "format": "landscape",
     "duration": "1:30"
   },
@@ -5560,6 +5987,7 @@
     "brand": "Photo Tex",
     "product": "",
     "category": "Fabric, Photography",
+    "product_type": "Textile - Adhesive Backed Fabric",
     "format": "landscape",
     "duration": "1:10"
   },
@@ -5573,6 +6001,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Photography, Fine Art, Canvas",
+    "product_type": "Textile - Canvas",
     "format": "landscape",
     "duration": "1:10"
   },
@@ -5586,6 +6015,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Floor Graphics, Wall Graphics",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "1:25"
   },
@@ -5599,6 +6029,7 @@
     "brand": "DreamScape",
     "product": "",
     "category": "Wall Graphics, Floor Graphics, Wall Covering",
+    "product_type": "Wallcoverings - Traditional",
     "format": "landscape",
     "duration": "0:55"
   },
@@ -5612,6 +6043,7 @@
     "brand": "Jessup",
     "product": "",
     "category": "Floor Graphics",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "1:20"
   },
@@ -5625,6 +6057,7 @@
     "brand": "PanoRama",
     "product": "",
     "category": "Floor Graphics, Wall Graphics",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "1:00"
   },
@@ -5638,6 +6071,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Fabric, Floor Graphics",
+    "product_type": "Textile - Adhesive Backed Fabric",
     "format": "landscape",
     "duration": "1:15"
   },
@@ -5651,6 +6085,7 @@
     "brand": "LexJet",
     "product": "Customer Story",
     "category": "Customer Stories, Photography",
+    "product_type": "",
     "format": "landscape",
     "duration": "0:59"
   },
@@ -5664,6 +6099,7 @@
     "brand": "HP",
     "product": "",
     "category": "Banners, Banner",
+    "product_type": "Banner - Vinyl Banner",
     "format": "landscape",
     "duration": "1:09"
   },
@@ -5677,6 +6113,7 @@
     "brand": "LexJet",
     "product": "Print Media",
     "category": "Print Media",
+    "product_type": "",
     "format": "landscape",
     "duration": "0:59"
   },
@@ -5690,6 +6127,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Wall Graphics, Wall Art",
+    "product_type": "Wallcoverings - Traditional",
     "format": "landscape",
     "duration": "0:39"
   },
@@ -5703,6 +6141,7 @@
     "brand": "Graphtec",
     "product": "Graphtec FC9000",
     "category": "Cutters",
+    "product_type": "Equipment/Hardware - Cutters",
     "format": "landscape",
     "duration": "1:23"
   },
@@ -5716,6 +6155,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Signage",
+    "product_type": "",
     "format": "landscape",
     "duration": "0:54"
   },
@@ -5729,6 +6169,7 @@
     "brand": "LexJet",
     "product": "Rewards Program",
     "category": "LexJet Rewards",
+    "product_type": "",
     "format": "landscape",
     "duration": "0:30"
   },
@@ -5742,6 +6183,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Wall Graphics, Dry Erase",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "0:29"
   },
@@ -5755,6 +6197,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Floor Graphics",
+    "product_type": "Film - Adhesive Backed Vinyl",
     "format": "landscape",
     "duration": "0:40"
   },
@@ -5768,6 +6211,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Webinar",
+    "product_type": "",
     "format": "landscape",
     "duration": "36:52"
   },
@@ -5781,6 +6225,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Photography, Photo Paper",
+    "product_type": "Paper - Photo Paper",
     "format": "landscape",
     "duration": "1:19"
   },
@@ -5794,6 +6239,7 @@
     "brand": "HP",
     "product": "HP Wide Format Printers",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "0:40"
   },
@@ -5807,6 +6253,7 @@
     "brand": "LexJet",
     "product": "Customer Story",
     "category": "Company",
+    "product_type": "",
     "format": "landscape",
     "duration": "0:59"
   },
@@ -5820,6 +6267,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Events, Trade Show",
+    "product_type": "",
     "format": "landscape",
     "duration": "2:00"
   },
@@ -5833,6 +6281,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Wall Graphics, Wall Art",
+    "product_type": "",
     "format": "landscape",
     "duration": "1:00"
   },
@@ -5846,6 +6295,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Software",
+    "product_type": "",
     "format": "landscape",
     "duration": "5:00"
   },
@@ -5859,6 +6309,7 @@
     "brand": "LexJet",
     "product": "Rewards Program",
     "category": "LexJet Rewards",
+    "product_type": "",
     "format": "landscape",
     "duration": "0:30"
   },
@@ -5872,6 +6323,7 @@
     "brand": "Epson",
     "product": "Epson SureColor F570",
     "category": "Printers, Dye Sublimation",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:24"
   },
@@ -5885,6 +6337,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "1:44"
   },
@@ -5898,6 +6351,7 @@
     "brand": "LexJet",
     "product": "",
     "category": "Software, RIP Software",
+    "product_type": "Software - RIP Software",
     "format": "landscape",
     "duration": "2:07"
   },
@@ -5911,6 +6365,7 @@
     "brand": "Epson",
     "product": "Epson SureColor",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "1:48"
   },
@@ -5924,6 +6379,7 @@
     "brand": "Epson",
     "product": "Epson SureColor",
     "category": "Printers",
+    "product_type": "Equipment/Hardware - Printers",
     "format": "landscape",
     "duration": "2:24"
   },
@@ -5937,6 +6393,7 @@
     "brand": "SQUID",
     "product": "",
     "category": "Window Graphics, Window Film",
+    "product_type": "Textile - Adhesive Backed Fabric",
     "format": "landscape",
     "duration": "7:06"
   },
@@ -5950,6 +6407,7 @@
     "brand": "SQUID",
     "product": "",
     "category": "Window Graphics, Window Film",
+    "product_type": "Textile - Adhesive Backed Fabric",
     "format": "landscape",
     "duration": "0:40"
   },
@@ -5963,6 +6421,7 @@
     "brand": "LexJet",
     "product": "Rewards Program",
     "category": "LexJet Rewards",
+    "product_type": "",
     "format": "landscape",
     "duration": "0:50"
   },
@@ -5976,6 +6435,7 @@
     "brand": "HP",
     "product": "",
     "category": "Software, Signage",
+    "product_type": "",
     "format": "landscape",
     "duration": "5:45"
   }
