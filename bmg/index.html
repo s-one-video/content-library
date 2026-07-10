@@ -26,6 +26,8 @@
   .vl-header p  { font-size: 0.82rem; opacity: .7; margin: 2px 0 0; }
   .vl-update-link { font-size: .78rem; color: #fff; opacity: .85; text-decoration: none; white-space: nowrap; flex-shrink: 0; }
   .vl-update-link:hover { opacity: 1; text-decoration: underline; color: #fff; }
+  #vl-region-toggle .btn { font-size: .78rem; padding: 3px 10px; }
+  #vl-region-toggle .btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
 
   /* ─── Controls bar ──────────────────────────────────────────── */
   .vl-controls {
@@ -221,6 +223,11 @@
         <option value="">All Categories</option>
       </select>
 
+      <div class="btn-group btn-group-sm" id="vl-region-toggle" role="group" aria-label="Region filter">
+        <button type="button" class="btn btn-outline-secondary active" data-region="all">All</button>
+        <button type="button" class="btn btn-outline-secondary" data-region="emea">EMEA</button>
+      </div>
+
       <select class="form-select form-select-sm" id="vl-sort" style="min-width:130px;max-width:170px;">
         <option value="newest">Newest First</option>
         <option value="oldest">Oldest First</option>
@@ -272,6 +279,7 @@
 
   let allVideos = [];
   let filtered  = [];
+  let regionFilter = 'all';
   const PAGE_SIZE = 35;
   let displayedCount = 0;
   let scrollObserver = null;
@@ -322,6 +330,15 @@
   }
 
   // ── Event listeners ──────────────────────────────────────────
+  document.querySelectorAll('#vl-region-toggle .btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('#vl-region-toggle .btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      regionFilter = btn.dataset.region;
+      applyFilters();
+    });
+  });
+
   searchEl.addEventListener('input',  applyFilters);
   brandEl.addEventListener('change',  applyFilters);
   productEl.addEventListener('change',  applyFilters);
@@ -329,6 +346,9 @@
   sortEl.addEventListener('change',     applyFilters);
   resetBtn.addEventListener('click', () => {
     searchEl.value = brandEl.value = productEl.value = categoryEl.value = '';
+    regionFilter = 'all';
+    document.querySelectorAll('#vl-region-toggle .btn').forEach(b => b.classList.remove('active'));
+    document.querySelector('#vl-region-toggle [data-region="all"]').classList.add('active');
     sortEl.value = 'newest';
     applyFilters();
   });
@@ -342,9 +362,10 @@
     const sort  = sortEl.value;
 
     filtered = allVideos.filter(v => {
-      if (brand && !splitField(v.brand).includes(brand))     return false;
+      if (brand && !splitField(v.brand).includes(brand))           return false;
       if (product  && !splitField(v.product).includes(product))   return false;
       if (category && !splitField(v.category).includes(category)) return false;
+      if (regionFilter === 'emea' && v.region !== 'EMEA') return false;
       if (q) {
         if (!`${v.title} ${v.description}`.toLowerCase().includes(q)) return false;
       }
